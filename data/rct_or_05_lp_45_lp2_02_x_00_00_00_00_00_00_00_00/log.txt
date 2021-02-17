@@ -1,0 +1,1333 @@
+2021-02-17 11:33:24	[Main thread]	INFO	SimulationEvaluationHte	runAnalysis	Starting simulation
+2021-02-17 11:33:24	[Main thread]	INFO	SimulationEvaluationHte	runAnalysis	Genarated seeds
+2021-02-17 11:33:24	[Main thread]	INFO	SimulationEvaluationHte	runAnalysis	Starting generation of the validation dataset
+2021-02-17 11:33:46	[Main thread]	INFO	SimulationEvaluationHte	runAnalysis	Done
+2021-02-17 11:33:46	[Main thread]	INFO	SimulationEvaluationHte	runAnalysis	Running simulations...
+2021-02-17 11:34:50	[Thread 3]	WARN	SimulationEvaluationHte	fun	There were 874 NAs produced for seed: 61056
+2021-02-17 11:34:54	[Thread 2]	WARN	SimulationEvaluationHte	fun	There were 596 NAs produced for seed: 99936
+2021-02-17 11:34:56	[Thread 5]	WARN	SimulationEvaluationHte	fun	There were 369 NAs produced for seed: 75348
+2021-02-17 11:34:57	[Thread 7]	WARN	SimulationEvaluationHte	fun	There were 624 NAs produced for seed: 1735
+2021-02-17 11:34:57	[Thread 4]	WARN	SimulationEvaluationHte	fun	There were 1520 NAs produced for seed: 20680
+2021-02-17 11:34:57	[Thread 1]	WARN	SimulationEvaluationHte	fun	There were 564 NAs produced for seed: 24945
+2021-02-17 11:34:58	[Thread 11]	WARN	SimulationEvaluationHte	fun	There were 531 NAs produced for seed: 52306
+2021-02-17 11:34:59	[Thread 12]	WARN	SimulationEvaluationHte	fun	There were 389 NAs produced for seed: 84907
+2021-02-17 11:34:59	[Thread 10]	WARN	SimulationEvaluationHte	fun	There were 582 NAs produced for seed: 92823
+2021-02-17 11:34:59	[Thread 21]	WARN	SimulationEvaluationHte	fun	There were 581 NAs produced for seed: 41261
+2021-02-17 11:34:59	[Thread 6]	WARN	SimulationEvaluationHte	fun	There were 562 NAs produced for seed: 25489
+2021-02-17 11:35:00	[Thread 8]	WARN	SimulationEvaluationHte	fun	There were 600 NAs produced for seed: 40581
+2021-02-17 11:35:01	[Thread 15]	WARN	SimulationEvaluationHte	fun	There were 346 NAs produced for seed: 58193
+2021-02-17 11:35:01	[Thread 23]	WARN	SimulationEvaluationHte	fun	There were 369 NAs produced for seed: 97933
+2021-02-17 11:35:01	[Thread 27]	WARN	SimulationEvaluationHte	fun	There were 1580 NAs produced for seed: 24783
+2021-02-17 11:35:02	[Thread 2]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:35:02	[Thread 9]	WARN	SimulationEvaluationHte	fun	There were 420 NAs produced for seed: 92017
+2021-02-17 11:35:02	[Thread 24]	WARN	SimulationEvaluationHte	fun	There were 470 NAs produced for seed: 42335
+2021-02-17 11:35:03	[Thread 17]	WARN	SimulationEvaluationHte	fun	There were 872 NAs produced for seed: 12744
+2021-02-17 11:35:03	[Thread 29]	WARN	SimulationEvaluationHte	fun	There were 420 NAs produced for seed: 66923
+2021-02-17 11:35:03	[Thread 13]	WARN	SimulationEvaluationHte	fun	There were 321 NAs produced for seed: 18442
+2021-02-17 11:35:03	[Thread 16]	WARN	SimulationEvaluationHte	fun	There were 671 NAs produced for seed: 20057
+2021-02-17 11:35:04	[Thread 18]	WARN	SimulationEvaluationHte	fun	There were 733 NAs produced for seed: 74461
+2021-02-17 11:35:04	[Thread 14]	WARN	SimulationEvaluationHte	fun	There were 681 NAs produced for seed: 86769
+2021-02-17 11:35:04	[Thread 22]	WARN	SimulationEvaluationHte	fun	There were 986 NAs produced for seed: 86920
+2021-02-17 11:35:04	[Thread 2]	WARN	SimulationEvaluationHte	fun	Run failed for seed:99936
+2021-02-17 11:35:04	[Thread 20]	WARN	SimulationEvaluationHte	fun	There were 482 NAs produced for seed: 52356
+2021-02-17 11:35:05	[Thread 31]	WARN	SimulationEvaluationHte	fun	There were 1338 NAs produced for seed: 47763
+2021-02-17 11:35:05	[Thread 41]	WARN	SimulationEvaluationHte	fun	There were 421 NAs produced for seed: 22919
+2021-02-17 11:35:06	[Thread 19]	WARN	SimulationEvaluationHte	fun	There were 2296 NAs produced for seed: 78171
+2021-02-17 11:35:06	[Thread 26]	WARN	SimulationEvaluationHte	fun	There were 476 NAs produced for seed: 59610
+2021-02-17 11:35:06	[Thread 44]	WARN	SimulationEvaluationHte	fun	There were 531 NAs produced for seed: 24674
+2021-02-17 11:35:07	[Thread 28]	WARN	SimulationEvaluationHte	fun	There were 357 NAs produced for seed: 3505
+2021-02-17 11:35:07	[Thread 30]	WARN	SimulationEvaluationHte	fun	There were 927 NAs produced for seed: 29316
+2021-02-17 11:35:07	[Thread 32]	WARN	SimulationEvaluationHte	fun	There were 370 NAs produced for seed: 96097
+2021-02-17 11:35:07	[Thread 39]	WARN	SimulationEvaluationHte	fun	There were 636 NAs produced for seed: 17466
+2021-02-17 11:35:07	[Thread 47]	WARN	SimulationEvaluationHte	fun	There were 661 NAs produced for seed: 83368
+2021-02-17 11:35:07	[Thread 25]	WARN	SimulationEvaluationHte	fun	There were 499 NAs produced for seed: 59786
+2021-02-17 11:35:08	[Thread 40]	WARN	SimulationEvaluationHte	fun	There were 495 NAs produced for seed: 22625
+2021-02-17 11:35:09	[Thread 35]	WARN	SimulationEvaluationHte	fun	There were 1948 NAs produced for seed: 76781
+2021-02-17 11:35:09	[Thread 36]	WARN	SimulationEvaluationHte	fun	There were 548 NAs produced for seed: 84873
+2021-02-17 11:35:10	[Thread 37]	WARN	SimulationEvaluationHte	fun	There were 727 NAs produced for seed: 2401
+2021-02-17 11:35:10	[Thread 23]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:35:11	[Thread 38]	WARN	SimulationEvaluationHte	fun	There were 285 NAs produced for seed: 37700
+2021-02-17 11:35:11	[Thread 34]	WARN	SimulationEvaluationHte	fun	There were 1028 NAs produced for seed: 82217
+2021-02-17 11:35:12	[Thread 23]	WARN	SimulationEvaluationHte	fun	Run failed for seed:97933
+2021-02-17 11:35:12	[Thread 33]	WARN	SimulationEvaluationHte	fun	There were 412 NAs produced for seed: 63581
+2021-02-17 11:35:12	[Thread 42]	WARN	SimulationEvaluationHte	fun	There were 496 NAs produced for seed: 63560
+2021-02-17 11:35:13	[Thread 48]	WARN	SimulationEvaluationHte	fun	There were 916 NAs produced for seed: 40946
+2021-02-17 11:35:14	[Thread 43]	WARN	SimulationEvaluationHte	fun	There were 551 NAs produced for seed: 73812
+2021-02-17 11:35:14	[Thread 46]	WARN	SimulationEvaluationHte	fun	There were 327 NAs produced for seed: 22810
+2021-02-17 11:35:14	[Thread 44]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:35:14	[Thread 26]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:35:15	[Thread 45]	WARN	SimulationEvaluationHte	fun	There were 185 NAs produced for seed: 70446
+2021-02-17 11:35:15	[Thread 30]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:35:15	[Thread 49]	WARN	SimulationEvaluationHte	fun	There were 893 NAs produced for seed: 22190
+2021-02-17 11:35:15	[Thread 44]	WARN	SimulationEvaluationHte	fun	Run failed for seed:24674
+2021-02-17 11:35:16	[Thread 50]	WARN	SimulationEvaluationHte	fun	There were 955 NAs produced for seed: 44492
+2021-02-17 11:35:16	[Thread 26]	WARN	SimulationEvaluationHte	fun	Run failed for seed:59610
+2021-02-17 11:35:17	[Thread 35]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:35:17	[Thread 30]	WARN	SimulationEvaluationHte	fun	Run failed for seed:29316
+2021-02-17 11:35:17	[Thread 37]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:35:18	[Thread 35]	WARN	SimulationEvaluationHte	fun	Run failed for seed:76781
+2021-02-17 11:35:19	[Thread 37]	WARN	SimulationEvaluationHte	fun	Run failed for seed:2401
+2021-02-17 11:35:20	[Thread 42]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:35:22	[Thread 42]	WARN	SimulationEvaluationHte	fun	Run failed for seed:63560
+2021-02-17 11:36:01	[Thread 2]	WARN	SimulationEvaluationHte	fun	There were 435 NAs produced for seed: 93689
+2021-02-17 11:36:09	[Thread 23]	WARN	SimulationEvaluationHte	fun	There were 855 NAs produced for seed: 17288
+2021-02-17 11:36:09	[Thread 44]	WARN	SimulationEvaluationHte	fun	There were 479 NAs produced for seed: 63647
+2021-02-17 11:36:14	[Thread 3]	WARN	SimulationEvaluationHte	fun	There were 1471 NAs produced for seed: 27525
+2021-02-17 11:36:15	[Thread 26]	WARN	SimulationEvaluationHte	fun	There were 757 NAs produced for seed: 12217
+2021-02-17 11:36:16	[Thread 37]	WARN	SimulationEvaluationHte	fun	There were 456 NAs produced for seed: 78155
+2021-02-17 11:36:19	[Thread 30]	WARN	SimulationEvaluationHte	fun	There were 780 NAs produced for seed: 41193
+2021-02-17 11:36:20	[Thread 35]	WARN	SimulationEvaluationHte	fun	There were 408 NAs produced for seed: 451
+2021-02-17 11:36:23	[Thread 4]	WARN	SimulationEvaluationHte	fun	There were 710 NAs produced for seed: 35252
+2021-02-17 11:36:25	[Thread 42]	WARN	SimulationEvaluationHte	fun	There were 866 NAs produced for seed: 49466
+2021-02-17 11:36:26	[Thread 27]	WARN	SimulationEvaluationHte	fun	There were 320 NAs produced for seed: 81564
+2021-02-17 11:36:27	[Thread 5]	WARN	SimulationEvaluationHte	fun	There were 708 NAs produced for seed: 53672
+2021-02-17 11:36:28	[Thread 1]	WARN	SimulationEvaluationHte	fun	There were 1121 NAs produced for seed: 54019
+2021-02-17 11:36:28	[Thread 29]	WARN	SimulationEvaluationHte	fun	There were 510 NAs produced for seed: 98277
+2021-02-17 11:36:28	[Thread 7]	WARN	SimulationEvaluationHte	fun	There were 436 NAs produced for seed: 5512
+2021-02-17 11:36:29	[Thread 21]	WARN	SimulationEvaluationHte	fun	There were 249 NAs produced for seed: 13330
+2021-02-17 11:36:29	[Thread 11]	WARN	SimulationEvaluationHte	fun	There were 369 NAs produced for seed: 21593
+2021-02-17 11:36:30	[Thread 12]	WARN	SimulationEvaluationHte	fun	There were 379 NAs produced for seed: 88878
+2021-02-17 11:36:31	[Thread 22]	WARN	SimulationEvaluationHte	fun	There were 1113 NAs produced for seed: 20801
+2021-02-17 11:36:32	[Thread 6]	WARN	SimulationEvaluationHte	fun	There were 595 NAs produced for seed: 20677
+2021-02-17 11:36:32	[Thread 24]	WARN	SimulationEvaluationHte	fun	There were 672 NAs produced for seed: 95301
+2021-02-17 11:36:32	[Thread 10]	WARN	SimulationEvaluationHte	fun	There were 1155 NAs produced for seed: 93684
+2021-02-17 11:36:32	[Thread 8]	WARN	SimulationEvaluationHte	fun	There were 491 NAs produced for seed: 95731
+2021-02-17 11:36:35	[Thread 31]	WARN	SimulationEvaluationHte	fun	There were 537 NAs produced for seed: 31241
+2021-02-17 11:36:35	[Thread 15]	WARN	SimulationEvaluationHte	fun	There were 1000 NAs produced for seed: 38445
+2021-02-17 11:36:37	[Thread 14]	WARN	SimulationEvaluationHte	fun	There were 566 NAs produced for seed: 13983
+2021-02-17 11:36:37	[Thread 9]	WARN	SimulationEvaluationHte	fun	There were 904 NAs produced for seed: 82096
+2021-02-17 11:36:38	[Thread 36]	WARN	SimulationEvaluationHte	fun	There were 562 NAs produced for seed: 89451
+2021-02-17 11:36:38	[Thread 17]	WARN	SimulationEvaluationHte	fun	There were 82 NAs produced for seed: 76361
+2021-02-17 11:36:38	[Thread 19]	WARN	SimulationEvaluationHte	fun	There were 171 NAs produced for seed: 58676
+2021-02-17 11:36:38	[Thread 32]	WARN	SimulationEvaluationHte	fun	There were 981 NAs produced for seed: 60887
+2021-02-17 11:36:39	[Thread 40]	WARN	SimulationEvaluationHte	fun	There were 363 NAs produced for seed: 44845
+2021-02-17 11:36:39	[Thread 16]	WARN	SimulationEvaluationHte	fun	There were 1025 NAs produced for seed: 2668
+2021-02-17 11:36:39	[Thread 47]	WARN	SimulationEvaluationHte	fun	There were 385 NAs produced for seed: 80426
+2021-02-17 11:36:39	[Thread 39]	WARN	SimulationEvaluationHte	fun	There were 1083 NAs produced for seed: 28596
+2021-02-17 11:36:40	[Thread 20]	WARN	SimulationEvaluationHte	fun	There were 530 NAs produced for seed: 43268
+2021-02-17 11:36:40	[Thread 25]	WARN	SimulationEvaluationHte	fun	There were 336 NAs produced for seed: 45913
+2021-02-17 11:36:40	[Thread 18]	WARN	SimulationEvaluationHte	fun	There were 796 NAs produced for seed: 84667
+2021-02-17 11:36:40	[Thread 10]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:36:40	[Thread 8]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:36:41	[Thread 6]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:36:41	[Thread 41]	WARN	SimulationEvaluationHte	fun	There were 426 NAs produced for seed: 45901
+2021-02-17 11:36:42	[Thread 10]	WARN	SimulationEvaluationHte	fun	Run failed for seed:93684
+2021-02-17 11:36:42	[Thread 8]	WARN	SimulationEvaluationHte	fun	Run failed for seed:95731
+2021-02-17 11:36:42	[Thread 34]	WARN	SimulationEvaluationHte	fun	There were 759 NAs produced for seed: 86986
+2021-02-17 11:36:43	[Thread 6]	WARN	SimulationEvaluationHte	fun	Run failed for seed:20677
+2021-02-17 11:36:44	[Thread 28]	WARN	SimulationEvaluationHte	fun	There were 282 NAs produced for seed: 73478
+2021-02-17 11:36:44	[Thread 13]	WARN	SimulationEvaluationHte	fun	There were 613 NAs produced for seed: 85234
+2021-02-17 11:36:44	[Thread 33]	WARN	SimulationEvaluationHte	fun	There were 643 NAs produced for seed: 51638
+2021-02-17 11:36:45	[Thread 36]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:36:46	[Thread 36]	WARN	SimulationEvaluationHte	fun	Run failed for seed:89451
+2021-02-17 11:36:47	[Thread 43]	WARN	SimulationEvaluationHte	fun	There were 1213 NAs produced for seed: 59417
+2021-02-17 11:36:47	[Thread 45]	WARN	SimulationEvaluationHte	fun	There were 686 NAs produced for seed: 60834
+2021-02-17 11:36:47	[Thread 38]	WARN	SimulationEvaluationHte	fun	There were 532 NAs produced for seed: 65376
+2021-02-17 11:36:49	[Thread 18]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:36:49	[Thread 41]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:36:49	[Thread 49]	WARN	SimulationEvaluationHte	fun	There were 269 NAs produced for seed: 90598
+2021-02-17 11:36:50	[Thread 46]	WARN	SimulationEvaluationHte	fun	There were 570 NAs produced for seed: 97854
+2021-02-17 11:36:50	[Thread 18]	WARN	SimulationEvaluationHte	fun	Run failed for seed:84667
+2021-02-17 11:36:51	[Thread 41]	WARN	SimulationEvaluationHte	fun	Run failed for seed:45901
+2021-02-17 11:36:51	[Thread 50]	WARN	SimulationEvaluationHte	fun	There were 1238 NAs produced for seed: 18050
+2021-02-17 11:36:51	[Thread 48]	WARN	SimulationEvaluationHte	fun	There were 476 NAs produced for seed: 15434
+2021-02-17 11:37:33	[Thread 2]	WARN	SimulationEvaluationHte	fun	There were 413 NAs produced for seed: 42187
+2021-02-17 11:37:37	[Thread 23]	WARN	SimulationEvaluationHte	fun	There were 286 NAs produced for seed: 44307
+2021-02-17 11:37:38	[Thread 3]	WARN	SimulationEvaluationHte	fun	There were 426 NAs produced for seed: 27021
+2021-02-17 11:37:39	[Thread 10]	WARN	SimulationEvaluationHte	fun	There were 551 NAs produced for seed: 47888
+2021-02-17 11:37:41	[Thread 36]	WARN	SimulationEvaluationHte	fun	There were 669 NAs produced for seed: 87387
+2021-02-17 11:37:41	[Thread 44]	WARN	SimulationEvaluationHte	fun	There were 782 NAs produced for seed: 12952
+2021-02-17 11:37:44	[Thread 8]	WARN	SimulationEvaluationHte	fun	There were 393 NAs produced for seed: 11942
+2021-02-17 11:37:44	[Thread 37]	WARN	SimulationEvaluationHte	fun	There were 135 NAs produced for seed: 82637
+2021-02-17 11:37:45	[Thread 26]	WARN	SimulationEvaluationHte	fun	There were 320 NAs produced for seed: 5923
+2021-02-17 11:37:45	[Thread 6]	WARN	SimulationEvaluationHte	fun	There were 600 NAs produced for seed: 83670
+2021-02-17 11:37:50	[Thread 35]	WARN	SimulationEvaluationHte	fun	There were 910 NAs produced for seed: 37882
+2021-02-17 11:37:50	[Thread 4]	WARN	SimulationEvaluationHte	fun	There were 315 NAs produced for seed: 490
+2021-02-17 11:37:52	[Thread 30]	WARN	SimulationEvaluationHte	fun	There were 428 NAs produced for seed: 52732
+2021-02-17 11:37:52	[Thread 41]	WARN	SimulationEvaluationHte	fun	There were 479 NAs produced for seed: 31601
+2021-02-17 11:37:53	[Thread 27]	WARN	SimulationEvaluationHte	fun	There were 231 NAs produced for seed: 8964
+2021-02-17 11:37:53	[Thread 18]	WARN	SimulationEvaluationHte	fun	There were 655 NAs produced for seed: 22088
+2021-02-17 11:37:55	[Thread 7]	WARN	SimulationEvaluationHte	fun	There were 221 NAs produced for seed: 92457
+2021-02-17 11:37:55	[Thread 22]	WARN	SimulationEvaluationHte	fun	There were 519 NAs produced for seed: 23090
+2021-02-17 11:37:56	[Thread 29]	WARN	SimulationEvaluationHte	fun	There were 626 NAs produced for seed: 74984
+2021-02-17 11:37:58	[Thread 21]	WARN	SimulationEvaluationHte	fun	There were 911 NAs produced for seed: 66673
+2021-02-17 11:37:59	[Thread 1]	WARN	SimulationEvaluationHte	fun	There were 270 NAs produced for seed: 52426
+2021-02-17 11:37:59	[Thread 11]	WARN	SimulationEvaluationHte	fun	There were 664 NAs produced for seed: 52730
+2021-02-17 11:38:00	[Thread 35]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:38:01	[Thread 12]	WARN	SimulationEvaluationHte	fun	There were 192 NAs produced for seed: 49032
+2021-02-17 11:38:02	[Thread 35]	WARN	SimulationEvaluationHte	fun	Run failed for seed:37882
+2021-02-17 11:38:02	[Thread 5]	WARN	SimulationEvaluationHte	fun	There were 979 NAs produced for seed: 28538
+2021-02-17 11:38:02	[Thread 24]	WARN	SimulationEvaluationHte	fun	There were 283 NAs produced for seed: 99494
+2021-02-17 11:38:03	[Thread 31]	WARN	SimulationEvaluationHte	fun	There were 316 NAs produced for seed: 3050
+2021-02-17 11:38:05	[Thread 29]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:38:05	[Thread 15]	WARN	SimulationEvaluationHte	fun	There were 360 NAs produced for seed: 21105
+2021-02-17 11:38:06	[Thread 42]	WARN	SimulationEvaluationHte	fun	There were 476 NAs produced for seed: 36890
+2021-02-17 11:38:07	[Thread 14]	WARN	SimulationEvaluationHte	fun	There were 346 NAs produced for seed: 10147
+2021-02-17 11:38:07	[Thread 29]	WARN	SimulationEvaluationHte	fun	Run failed for seed:74984
+2021-02-17 11:38:08	[Thread 40]	WARN	SimulationEvaluationHte	fun	There were 405 NAs produced for seed: 74917
+2021-02-17 11:38:09	[Thread 17]	WARN	SimulationEvaluationHte	fun	There were 1455 NAs produced for seed: 59511
+2021-02-17 11:38:09	[Thread 47]	WARN	SimulationEvaluationHte	fun	There were 917 NAs produced for seed: 83745
+2021-02-17 11:38:10	[Thread 39]	WARN	SimulationEvaluationHte	fun	There were 410 NAs produced for seed: 56567
+2021-02-17 11:38:10	[Thread 32]	WARN	SimulationEvaluationHte	fun	There were 931 NAs produced for seed: 49622
+2021-02-17 11:38:11	[Thread 5]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:38:12	[Thread 9]	WARN	SimulationEvaluationHte	fun	There were 309 NAs produced for seed: 89253
+2021-02-17 11:38:12	[Thread 19]	WARN	SimulationEvaluationHte	fun	There were 598 NAs produced for seed: 51522
+2021-02-17 11:38:12	[Thread 25]	WARN	SimulationEvaluationHte	fun	There were 169 NAs produced for seed: 58643
+2021-02-17 11:38:13	[Thread 34]	WARN	SimulationEvaluationHte	fun	There were 313 NAs produced for seed: 77226
+2021-02-17 11:38:13	[Thread 5]	WARN	SimulationEvaluationHte	fun	Run failed for seed:28538
+2021-02-17 11:38:14	[Thread 20]	WARN	SimulationEvaluationHte	fun	There were 442 NAs produced for seed: 89567
+2021-02-17 11:38:14	[Thread 16]	WARN	SimulationEvaluationHte	fun	There were 984 NAs produced for seed: 7531
+2021-02-17 11:38:18	[Thread 28]	WARN	SimulationEvaluationHte	fun	There were 1203 NAs produced for seed: 88982
+2021-02-17 11:38:19	[Thread 13]	WARN	SimulationEvaluationHte	fun	There were 420 NAs produced for seed: 59015
+2021-02-17 11:38:19	[Thread 43]	WARN	SimulationEvaluationHte	fun	There were 310 NAs produced for seed: 63282
+2021-02-17 11:38:19	[Thread 33]	WARN	SimulationEvaluationHte	fun	There were 632 NAs produced for seed: 89760
+2021-02-17 11:38:20	[Thread 45]	WARN	SimulationEvaluationHte	fun	There were 1023 NAs produced for seed: 47280
+2021-02-17 11:38:21	[Thread 25]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:38:22	[Thread 19]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:38:22	[Thread 16]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:38:22	[Thread 25]	WARN	SimulationEvaluationHte	fun	Run failed for seed:58643
+2021-02-17 11:38:23	[Thread 19]	WARN	SimulationEvaluationHte	fun	Run failed for seed:51522
+2021-02-17 11:38:23	[Thread 16]	WARN	SimulationEvaluationHte	fun	Run failed for seed:7531
+2021-02-17 11:38:24	[Thread 46]	WARN	SimulationEvaluationHte	fun	There were 535 NAs produced for seed: 82306
+2021-02-17 11:38:24	[Thread 38]	WARN	SimulationEvaluationHte	fun	There were 619 NAs produced for seed: 92241
+2021-02-17 11:38:24	[Thread 49]	WARN	SimulationEvaluationHte	fun	There were 1350 NAs produced for seed: 8188
+2021-02-17 11:38:25	[Thread 48]	WARN	SimulationEvaluationHte	fun	There were 424 NAs produced for seed: 43199
+2021-02-17 11:38:25	[Thread 50]	WARN	SimulationEvaluationHte	fun	There were 387 NAs produced for seed: 93404
+2021-02-17 11:38:32	[Thread 48]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:38:33	[Thread 48]	WARN	SimulationEvaluationHte	fun	Run failed for seed:43199
+2021-02-17 11:38:57	[Thread 35]	WARN	SimulationEvaluationHte	fun	There were 616 NAs produced for seed: 96219
+2021-02-17 11:38:59	[Thread 2]	WARN	SimulationEvaluationHte	fun	There were 315 NAs produced for seed: 11973
+2021-02-17 11:39:02	[Thread 29]	WARN	SimulationEvaluationHte	fun	There were 840 NAs produced for seed: 55779
+2021-02-17 11:39:03	[Thread 3]	WARN	SimulationEvaluationHte	fun	There were 515 NAs produced for seed: 68357
+2021-02-17 11:39:06	[Thread 35]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:39:06	[Thread 2]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:39:07	[Thread 36]	WARN	SimulationEvaluationHte	fun	There were 639 NAs produced for seed: 7792
+2021-02-17 11:39:07	[Thread 23]	WARN	SimulationEvaluationHte	fun	There were 749 NAs produced for seed: 32857
+2021-02-17 11:39:07	[Thread 35]	WARN	SimulationEvaluationHte	fun	Run failed for seed:96219
+2021-02-17 11:39:08	[Thread 10]	WARN	SimulationEvaluationHte	fun	There were 370 NAs produced for seed: 73191
+2021-02-17 11:39:08	[Thread 2]	WARN	SimulationEvaluationHte	fun	Run failed for seed:11973
+2021-02-17 11:39:08	[Thread 44]	WARN	SimulationEvaluationHte	fun	There were 316 NAs produced for seed: 86120
+2021-02-17 11:39:14	[Thread 5]	WARN	SimulationEvaluationHte	fun	There were 385 NAs produced for seed: 83253
+2021-02-17 11:39:15	[Thread 8]	WARN	SimulationEvaluationHte	fun	There were 720 NAs produced for seed: 46298
+2021-02-17 11:39:15	[Thread 4]	WARN	SimulationEvaluationHte	fun	There were 483 NAs produced for seed: 61184
+2021-02-17 11:39:16	[Thread 37]	WARN	SimulationEvaluationHte	fun	There were 595 NAs produced for seed: 52578
+2021-02-17 11:39:16	[Thread 44]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:39:17	[Thread 6]	WARN	SimulationEvaluationHte	fun	There were 167 NAs produced for seed: 90683
+2021-02-17 11:39:18	[Thread 44]	WARN	SimulationEvaluationHte	fun	Run failed for seed:86120
+2021-02-17 11:39:20	[Thread 27]	WARN	SimulationEvaluationHte	fun	There were 419 NAs produced for seed: 61169
+2021-02-17 11:39:21	[Thread 21]	WARN	SimulationEvaluationHte	fun	There were 637 NAs produced for seed: 43483
+2021-02-17 11:39:22	[Thread 7]	WARN	SimulationEvaluationHte	fun	There were 479 NAs produced for seed: 54170
+2021-02-17 11:39:23	[Thread 22]	WARN	SimulationEvaluationHte	fun	There were 171 NAs produced for seed: 86416
+2021-02-17 11:39:23	[Thread 26]	WARN	SimulationEvaluationHte	fun	There were 114 NAs produced for seed: 30063
+2021-02-17 11:39:24	[Thread 25]	WARN	SimulationEvaluationHte	fun	There were 266 NAs produced for seed: 1112
+2021-02-17 11:39:24	[Thread 16]	WARN	SimulationEvaluationHte	fun	There were 253 NAs produced for seed: 97633
+2021-02-17 11:39:25	[Thread 19]	WARN	SimulationEvaluationHte	fun	There were 663 NAs produced for seed: 92770
+2021-02-17 11:39:25	[Thread 41]	WARN	SimulationEvaluationHte	fun	There were 641 NAs produced for seed: 55344
+2021-02-17 11:39:26	[Thread 30]	WARN	SimulationEvaluationHte	fun	There were 827 NAs produced for seed: 52690
+2021-02-17 11:39:26	[Thread 11]	WARN	SimulationEvaluationHte	fun	There were 352 NAs produced for seed: 84914
+2021-02-17 11:39:28	[Thread 31]	WARN	SimulationEvaluationHte	fun	There were 383 NAs produced for seed: 50360
+2021-02-17 11:39:29	[Thread 24]	WARN	SimulationEvaluationHte	fun	There were 247 NAs produced for seed: 52135
+2021-02-17 11:39:29	[Thread 1]	WARN	SimulationEvaluationHte	fun	There were 287 NAs produced for seed: 18954
+2021-02-17 11:39:29	[Thread 12]	WARN	SimulationEvaluationHte	fun	There were 322 NAs produced for seed: 53181
+2021-02-17 11:39:32	[Thread 22]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:39:32	[Thread 18]	WARN	SimulationEvaluationHte	fun	There were 263 NAs produced for seed: 36729
+2021-02-17 11:39:33	[Thread 40]	WARN	SimulationEvaluationHte	fun	There were 208 NAs produced for seed: 25415
+2021-02-17 11:39:34	[Thread 19]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:39:34	[Thread 22]	WARN	SimulationEvaluationHte	fun	Run failed for seed:86416
+2021-02-17 11:39:34	[Thread 47]	WARN	SimulationEvaluationHte	fun	There were 490 NAs produced for seed: 68971
+2021-02-17 11:39:34	[Thread 39]	WARN	SimulationEvaluationHte	fun	There were 482 NAs produced for seed: 94440
+2021-02-17 11:39:35	[Thread 14]	WARN	SimulationEvaluationHte	fun	There were 319 NAs produced for seed: 71080
+2021-02-17 11:39:36	[Thread 19]	WARN	SimulationEvaluationHte	fun	Run failed for seed:92770
+2021-02-17 11:39:38	[Thread 15]	WARN	SimulationEvaluationHte	fun	There were 402 NAs produced for seed: 98770
+2021-02-17 11:39:38	[Thread 32]	WARN	SimulationEvaluationHte	fun	There were 436 NAs produced for seed: 76092
+2021-02-17 11:39:38	[Thread 48]	WARN	SimulationEvaluationHte	fun	There were 962 NAs produced for seed: 93220
+2021-02-17 11:39:40	[Thread 42]	WARN	SimulationEvaluationHte	fun	There were 634 NAs produced for seed: 55247
+2021-02-17 11:39:41	[Thread 40]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:39:41	[Thread 18]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:39:42	[Thread 17]	WARN	SimulationEvaluationHte	fun	There were 1334 NAs produced for seed: 39802
+2021-02-17 11:39:42	[Thread 39]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:39:42	[Thread 20]	WARN	SimulationEvaluationHte	fun	There were 945 NAs produced for seed: 34254
+2021-02-17 11:39:42	[Thread 47]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:39:43	[Thread 34]	WARN	SimulationEvaluationHte	fun	There were 546 NAs produced for seed: 16709
+2021-02-17 11:39:43	[Thread 40]	WARN	SimulationEvaluationHte	fun	Run failed for seed:25415
+2021-02-17 11:39:43	[Thread 18]	WARN	SimulationEvaluationHte	fun	Run failed for seed:36729
+2021-02-17 11:39:44	[Thread 39]	WARN	SimulationEvaluationHte	fun	Run failed for seed:94440
+2021-02-17 11:39:45	[Thread 47]	WARN	SimulationEvaluationHte	fun	Run failed for seed:68971
+2021-02-17 11:39:45	[Thread 9]	WARN	SimulationEvaluationHte	fun	There were 342 NAs produced for seed: 89293
+2021-02-17 11:39:49	[Thread 42]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:39:49	[Thread 45]	WARN	SimulationEvaluationHte	fun	There were 365 NAs produced for seed: 65417
+2021-02-17 11:39:49	[Thread 13]	WARN	SimulationEvaluationHte	fun	There were 1097 NAs produced for seed: 236
+2021-02-17 11:39:50	[Thread 17]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:39:50	[Thread 33]	WARN	SimulationEvaluationHte	fun	There were 459 NAs produced for seed: 23455
+2021-02-17 11:39:51	[Thread 42]	WARN	SimulationEvaluationHte	fun	Run failed for seed:55247
+2021-02-17 11:39:52	[Thread 49]	WARN	SimulationEvaluationHte	fun	There were 1347 NAs produced for seed: 2215
+2021-02-17 11:39:52	[Thread 28]	WARN	SimulationEvaluationHte	fun	There were 254 NAs produced for seed: 91784
+2021-02-17 11:39:52	[Thread 43]	WARN	SimulationEvaluationHte	fun	There were 891 NAs produced for seed: 64436
+2021-02-17 11:39:52	[Thread 17]	WARN	SimulationEvaluationHte	fun	Run failed for seed:39802
+2021-02-17 11:39:53	[Thread 50]	WARN	SimulationEvaluationHte	fun	There were 879 NAs produced for seed: 64291
+2021-02-17 11:39:54	[Thread 38]	WARN	SimulationEvaluationHte	fun	There were 723 NAs produced for seed: 54199
+2021-02-17 11:39:56	[Thread 46]	WARN	SimulationEvaluationHte	fun	There were 126 NAs produced for seed: 98547
+2021-02-17 11:39:59	[Thread 49]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:40:00	[Thread 50]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:40:00	[Thread 49]	WARN	SimulationEvaluationHte	fun	Run failed for seed:2215
+2021-02-17 11:40:01	[Thread 28]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:40:01	[Thread 38]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:40:01	[Thread 50]	WARN	SimulationEvaluationHte	fun	Run failed for seed:64291
+2021-02-17 11:40:02	[Thread 46]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:40:02	[Thread 28]	WARN	SimulationEvaluationHte	fun	Run failed for seed:91784
+2021-02-17 11:40:02	[Thread 38]	WARN	SimulationEvaluationHte	fun	Run failed for seed:54199
+2021-02-17 11:40:04	[Thread 46]	WARN	SimulationEvaluationHte	fun	Run failed for seed:98547
+2021-02-17 11:40:06	[Thread 2]	WARN	SimulationEvaluationHte	fun	There were 777 NAs produced for seed: 86485
+2021-02-17 11:40:09	[Thread 35]	WARN	SimulationEvaluationHte	fun	There were 506 NAs produced for seed: 6521
+2021-02-17 11:40:15	[Thread 35]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:40:17	[Thread 44]	WARN	SimulationEvaluationHte	fun	There were 920 NAs produced for seed: 97327
+2021-02-17 11:40:17	[Thread 35]	WARN	SimulationEvaluationHte	fun	Run failed for seed:6521
+2021-02-17 11:40:28	[Thread 29]	WARN	SimulationEvaluationHte	fun	There were 677 NAs produced for seed: 86331
+2021-02-17 11:40:30	[Thread 22]	WARN	SimulationEvaluationHte	fun	There were 936 NAs produced for seed: 25456
+2021-02-17 11:40:31	[Thread 19]	WARN	SimulationEvaluationHte	fun	There were 422 NAs produced for seed: 92545
+2021-02-17 11:40:31	[Thread 3]	WARN	SimulationEvaluationHte	fun	There were 303 NAs produced for seed: 39113
+2021-02-17 11:40:36	[Thread 36]	WARN	SimulationEvaluationHte	fun	There were 673 NAs produced for seed: 89964
+2021-02-17 11:40:37	[Thread 23]	WARN	SimulationEvaluationHte	fun	There were 303 NAs produced for seed: 66127
+2021-02-17 11:40:37	[Thread 5]	WARN	SimulationEvaluationHte	fun	There were 445 NAs produced for seed: 4025
+2021-02-17 11:40:38	[Thread 10]	WARN	SimulationEvaluationHte	fun	There were 221 NAs produced for seed: 30972
+2021-02-17 11:40:41	[Thread 47]	WARN	SimulationEvaluationHte	fun	There were 417 NAs produced for seed: 4083
+2021-02-17 11:40:42	[Thread 40]	WARN	SimulationEvaluationHte	fun	There were 406 NAs produced for seed: 2271
+2021-02-17 11:40:44	[Thread 4]	WARN	SimulationEvaluationHte	fun	There were 308 NAs produced for seed: 23100
+2021-02-17 11:40:45	[Thread 18]	WARN	SimulationEvaluationHte	fun	There were 1311 NAs produced for seed: 61251
+2021-02-17 11:40:46	[Thread 39]	WARN	SimulationEvaluationHte	fun	There were 918 NAs produced for seed: 23728
+2021-02-17 11:40:46	[Thread 37]	WARN	SimulationEvaluationHte	fun	There were 472 NAs produced for seed: 2133
+2021-02-17 11:40:47	[Thread 21]	WARN	SimulationEvaluationHte	fun	There were 1572 NAs produced for seed: 91318
+2021-02-17 11:40:48	[Thread 27]	WARN	SimulationEvaluationHte	fun	There were 716 NAs produced for seed: 67558
+2021-02-17 11:40:48	[Thread 7]	WARN	SimulationEvaluationHte	fun	There were 588 NAs produced for seed: 41796
+2021-02-17 11:40:48	[Thread 8]	WARN	SimulationEvaluationHte	fun	There were 640 NAs produced for seed: 53099
+2021-02-17 11:40:49	[Thread 11]	WARN	SimulationEvaluationHte	fun	There were 207 NAs produced for seed: 89920
+2021-02-17 11:40:51	[Thread 42]	WARN	SimulationEvaluationHte	fun	There were 736 NAs produced for seed: 42540
+2021-02-17 11:40:51	[Thread 6]	WARN	SimulationEvaluationHte	fun	There were 588 NAs produced for seed: 90342
+2021-02-17 11:40:52	[Thread 17]	WARN	SimulationEvaluationHte	fun	There were 353 NAs produced for seed: 49282
+2021-02-17 11:40:53	[Thread 31]	WARN	SimulationEvaluationHte	fun	There were 291 NAs produced for seed: 60327
+2021-02-17 11:40:54	[Thread 16]	WARN	SimulationEvaluationHte	fun	There were 772 NAs produced for seed: 73475
+2021-02-17 11:40:54	[Thread 41]	WARN	SimulationEvaluationHte	fun	There were 555 NAs produced for seed: 69971
+2021-02-17 11:40:54	[Thread 25]	WARN	SimulationEvaluationHte	fun	There were 327 NAs produced for seed: 756
+2021-02-17 11:40:55	[Thread 37]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:40:57	[Thread 37]	WARN	SimulationEvaluationHte	fun	Run failed for seed:2133
+2021-02-17 11:40:57	[Thread 12]	WARN	SimulationEvaluationHte	fun	There were 311 NAs produced for seed: 91588
+2021-02-17 11:40:57	[Thread 26]	WARN	SimulationEvaluationHte	fun	There were 387 NAs produced for seed: 37552
+2021-02-17 11:40:59	[Thread 24]	WARN	SimulationEvaluationHte	fun	There were 400 NAs produced for seed: 47007
+2021-02-17 11:41:03	[Thread 41]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:41:04	[Thread 41]	WARN	SimulationEvaluationHte	fun	Run failed for seed:69971
+2021-02-17 11:41:05	[Thread 49]	WARN	SimulationEvaluationHte	fun	There were 725 NAs produced for seed: 34433
+2021-02-17 11:41:05	[Thread 30]	WARN	SimulationEvaluationHte	fun	There were 1186 NAs produced for seed: 47133
+2021-02-17 11:41:06	[Thread 32]	WARN	SimulationEvaluationHte	fun	There were 825 NAs produced for seed: 78858
+2021-02-17 11:41:06	[Thread 1]	WARN	SimulationEvaluationHte	fun	There were 435 NAs produced for seed: 29179
+2021-02-17 11:41:07	[Thread 28]	WARN	SimulationEvaluationHte	fun	There were 784 NAs produced for seed: 63138
+2021-02-17 11:41:08	[Thread 50]	WARN	SimulationEvaluationHte	fun	There were 632 NAs produced for seed: 98933
+2021-02-17 11:41:09	[Thread 14]	WARN	SimulationEvaluationHte	fun	There were 323 NAs produced for seed: 89750
+2021-02-17 11:41:09	[Thread 38]	WARN	SimulationEvaluationHte	fun	There were 1152 NAs produced for seed: 5131
+2021-02-17 11:41:10	[Thread 46]	WARN	SimulationEvaluationHte	fun	There were 208 NAs produced for seed: 28019
+2021-02-17 11:41:11	[Thread 48]	WARN	SimulationEvaluationHte	fun	There were 339 NAs produced for seed: 70430
+2021-02-17 11:41:14	[Thread 20]	WARN	SimulationEvaluationHte	fun	There were 703 NAs produced for seed: 17128
+2021-02-17 11:41:16	[Thread 15]	WARN	SimulationEvaluationHte	fun	There were 335 NAs produced for seed: 50016
+2021-02-17 11:41:17	[Thread 34]	WARN	SimulationEvaluationHte	fun	There were 1348 NAs produced for seed: 55582
+2021-02-17 11:41:19	[Thread 9]	WARN	SimulationEvaluationHte	fun	There were 305 NAs produced for seed: 60741
+2021-02-17 11:41:19	[Thread 13]	WARN	SimulationEvaluationHte	fun	There were 1392 NAs produced for seed: 43312
+2021-02-17 11:41:21	[Thread 35]	WARN	SimulationEvaluationHte	fun	There were 508 NAs produced for seed: 47204
+2021-02-17 11:41:22	[Thread 45]	WARN	SimulationEvaluationHte	fun	There were 275 NAs produced for seed: 93806
+2021-02-17 11:41:22	[Thread 33]	WARN	SimulationEvaluationHte	fun	There were 672 NAs produced for seed: 83245
+2021-02-17 11:41:28	[Thread 9]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:41:28	[Thread 43]	WARN	SimulationEvaluationHte	fun	There were 734 NAs produced for seed: 74566
+2021-02-17 11:41:29	[Thread 35]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:41:29	[Thread 9]	WARN	SimulationEvaluationHte	fun	Run failed for seed:60741
+2021-02-17 11:41:30	[Thread 35]	WARN	SimulationEvaluationHte	fun	Run failed for seed:47204
+2021-02-17 11:41:38	[Thread 2]	WARN	SimulationEvaluationHte	fun	There were 697 NAs produced for seed: 26249
+2021-02-17 11:41:47	[Thread 44]	WARN	SimulationEvaluationHte	fun	There were 573 NAs produced for seed: 48996
+2021-02-17 11:41:56	[Thread 37]	WARN	SimulationEvaluationHte	fun	There were 290 NAs produced for seed: 48945
+2021-02-17 11:41:56	[Thread 29]	WARN	SimulationEvaluationHte	fun	There were 1021 NAs produced for seed: 49564
+2021-02-17 11:41:57	[Thread 3]	WARN	SimulationEvaluationHte	fun	There were 467 NAs produced for seed: 89532
+2021-02-17 11:41:59	[Thread 41]	WARN	SimulationEvaluationHte	fun	There were 373 NAs produced for seed: 14200
+2021-02-17 11:41:59	[Thread 22]	WARN	SimulationEvaluationHte	fun	There were 433 NAs produced for seed: 95276
+2021-02-17 11:42:01	[Thread 5]	WARN	SimulationEvaluationHte	fun	There were 568 NAs produced for seed: 37432
+2021-02-17 11:42:07	[Thread 40]	WARN	SimulationEvaluationHte	fun	There were 511 NAs produced for seed: 98191
+2021-02-17 11:42:07	[Thread 47]	WARN	SimulationEvaluationHte	fun	There were 511 NAs produced for seed: 30297
+2021-02-17 11:42:08	[Thread 36]	WARN	SimulationEvaluationHte	fun	There were 528 NAs produced for seed: 40812
+2021-02-17 11:42:09	[Thread 4]	WARN	SimulationEvaluationHte	fun	There were 184 NAs produced for seed: 4117
+2021-02-17 11:42:10	[Thread 23]	WARN	SimulationEvaluationHte	fun	There were 1136 NAs produced for seed: 8442
+2021-02-17 11:42:10	[Thread 10]	WARN	SimulationEvaluationHte	fun	There were 692 NAs produced for seed: 62422
+2021-02-17 11:42:11	[Thread 19]	WARN	SimulationEvaluationHte	fun	There were 644 NAs produced for seed: 32503
+2021-02-17 11:42:13	[Thread 7]	WARN	SimulationEvaluationHte	fun	There were 1000 NAs produced for seed: 45387
+2021-02-17 11:42:15	[Thread 11]	WARN	SimulationEvaluationHte	fun	There were 1671 NAs produced for seed: 50751
+2021-02-17 11:42:15	[Thread 21]	WARN	SimulationEvaluationHte	fun	There were 1094 NAs produced for seed: 67913
+2021-02-17 11:42:16	[Thread 31]	WARN	SimulationEvaluationHte	fun	There were 680 NAs produced for seed: 72331
+2021-02-17 11:42:17	[Thread 39]	WARN	SimulationEvaluationHte	fun	There were 503 NAs produced for seed: 16664
+2021-02-17 11:42:17	[Thread 27]	WARN	SimulationEvaluationHte	fun	There were 319 NAs produced for seed: 56363
+2021-02-17 11:42:20	[Thread 18]	WARN	SimulationEvaluationHte	fun	There were 548 NAs produced for seed: 86283
+2021-02-17 11:42:21	[Thread 8]	WARN	SimulationEvaluationHte	fun	There were 1125 NAs produced for seed: 88791
+2021-02-17 11:42:23	[Thread 21]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:42:23	[Thread 24]	WARN	SimulationEvaluationHte	fun	There were 392 NAs produced for seed: 32295
+2021-02-17 11:42:23	[Thread 12]	WARN	SimulationEvaluationHte	fun	There were 719 NAs produced for seed: 31235
+2021-02-17 11:42:25	[Thread 42]	WARN	SimulationEvaluationHte	fun	There were 438 NAs produced for seed: 15345
+2021-02-17 11:42:25	[Thread 27]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:42:26	[Thread 21]	WARN	SimulationEvaluationHte	fun	Run failed for seed:67913
+2021-02-17 11:42:27	[Thread 27]	WARN	SimulationEvaluationHte	fun	Run failed for seed:56363
+2021-02-17 11:42:30	[Thread 6]	WARN	SimulationEvaluationHte	fun	There were 442 NAs produced for seed: 68655
+2021-02-17 11:42:30	[Thread 17]	WARN	SimulationEvaluationHte	fun	There were 316 NAs produced for seed: 80185
+2021-02-17 11:42:30	[Thread 16]	WARN	SimulationEvaluationHte	fun	There were 213 NAs produced for seed: 49747
+2021-02-17 11:42:30	[Thread 8]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:42:31	[Thread 25]	WARN	SimulationEvaluationHte	fun	There were 134 NAs produced for seed: 77725
+2021-02-17 11:42:32	[Thread 26]	WARN	SimulationEvaluationHte	fun	There were 275 NAs produced for seed: 96820
+2021-02-17 11:42:32	[Thread 8]	WARN	SimulationEvaluationHte	fun	Run failed for seed:88791
+2021-02-17 11:42:33	[Thread 35]	WARN	SimulationEvaluationHte	fun	There were 280 NAs produced for seed: 19625
+2021-02-17 11:42:33	[Thread 32]	WARN	SimulationEvaluationHte	fun	There were 463 NAs produced for seed: 4080
+2021-02-17 11:42:35	[Thread 9]	WARN	SimulationEvaluationHte	fun	There were 248 NAs produced for seed: 55513
+2021-02-17 11:42:39	[Thread 1]	WARN	SimulationEvaluationHte	fun	There were 371 NAs produced for seed: 29002
+2021-02-17 11:42:41	[Thread 50]	WARN	SimulationEvaluationHte	fun	There were 220 NAs produced for seed: 23493
+2021-02-17 11:42:42	[Thread 35]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:42:42	[Thread 28]	WARN	SimulationEvaluationHte	fun	There were 399 NAs produced for seed: 29972
+2021-02-17 11:42:43	[Thread 48]	WARN	SimulationEvaluationHte	fun	There were 319 NAs produced for seed: 98915
+2021-02-17 11:42:43	[Thread 49]	WARN	SimulationEvaluationHte	fun	There were 415 NAs produced for seed: 28331
+2021-02-17 11:42:44	[Thread 35]	WARN	SimulationEvaluationHte	fun	Run failed for seed:19625
+2021-02-17 11:42:44	[Thread 30]	WARN	SimulationEvaluationHte	fun	There were 457 NAs produced for seed: 34457
+2021-02-17 11:42:44	[Thread 14]	WARN	SimulationEvaluationHte	fun	There were 353 NAs produced for seed: 29322
+2021-02-17 11:42:45	[Thread 46]	WARN	SimulationEvaluationHte	fun	There were 924 NAs produced for seed: 86225
+2021-02-17 11:42:46	[Thread 20]	WARN	SimulationEvaluationHte	fun	There were 574 NAs produced for seed: 69450
+2021-02-17 11:42:46	[Thread 38]	WARN	SimulationEvaluationHte	fun	There were 428 NAs produced for seed: 98348
+2021-02-17 11:42:46	[Thread 15]	WARN	SimulationEvaluationHte	fun	There were 571 NAs produced for seed: 7827
+2021-02-17 11:42:50	[Thread 28]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:42:51	[Thread 30]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:42:51	[Thread 13]	WARN	SimulationEvaluationHte	fun	There were 265 NAs produced for seed: 30257
+2021-02-17 11:42:52	[Thread 45]	WARN	SimulationEvaluationHte	fun	There were 672 NAs produced for seed: 31465
+2021-02-17 11:42:52	[Thread 34]	WARN	SimulationEvaluationHte	fun	There were 332 NAs produced for seed: 65419
+2021-02-17 11:42:52	[Thread 28]	WARN	SimulationEvaluationHte	fun	Run failed for seed:29972
+2021-02-17 11:42:53	[Thread 30]	WARN	SimulationEvaluationHte	fun	Run failed for seed:34457
+2021-02-17 11:42:54	[Thread 33]	WARN	SimulationEvaluationHte	fun	There were 448 NAs produced for seed: 69629
+2021-02-17 11:43:03	[Thread 43]	WARN	SimulationEvaluationHte	fun	There were 309 NAs produced for seed: 32610
+2021-02-17 11:43:03	[Thread 33]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:43:04	[Thread 2]	WARN	SimulationEvaluationHte	fun	There were 317 NAs produced for seed: 43546
+2021-02-17 11:43:05	[Thread 33]	WARN	SimulationEvaluationHte	fun	Run failed for seed:69629
+2021-02-17 11:43:14	[Thread 44]	WARN	SimulationEvaluationHte	fun	There were 2045 NAs produced for seed: 91865
+2021-02-17 11:43:23	[Thread 27]	WARN	SimulationEvaluationHte	fun	There were 896 NAs produced for seed: 68155
+2021-02-17 11:43:23	[Thread 29]	WARN	SimulationEvaluationHte	fun	There were 881 NAs produced for seed: 20935
+2021-02-17 11:43:23	[Thread 21]	WARN	SimulationEvaluationHte	fun	There were 874 NAs produced for seed: 74833
+2021-02-17 11:43:27	[Thread 37]	WARN	SimulationEvaluationHte	fun	There were 711 NAs produced for seed: 40774
+2021-02-17 11:43:27	[Thread 41]	WARN	SimulationEvaluationHte	fun	There were 251 NAs produced for seed: 98488
+2021-02-17 11:43:28	[Thread 5]	WARN	SimulationEvaluationHte	fun	There were 523 NAs produced for seed: 67907
+2021-02-17 11:43:31	[Thread 3]	WARN	SimulationEvaluationHte	fun	There were 846 NAs produced for seed: 71363
+2021-02-17 11:43:31	[Thread 8]	WARN	SimulationEvaluationHte	fun	There were 896 NAs produced for seed: 38535
+2021-02-17 11:43:34	[Thread 22]	WARN	SimulationEvaluationHte	fun	There were 897 NAs produced for seed: 20868
+2021-02-17 11:43:36	[Thread 40]	WARN	SimulationEvaluationHte	fun	There were 182 NAs produced for seed: 56197
+2021-02-17 11:43:38	[Thread 36]	WARN	SimulationEvaluationHte	fun	There were 893 NAs produced for seed: 4043
+2021-02-17 11:43:38	[Thread 47]	WARN	SimulationEvaluationHte	fun	There were 292 NAs produced for seed: 13585
+2021-02-17 11:43:39	[Thread 31]	WARN	SimulationEvaluationHte	fun	There were 516 NAs produced for seed: 15395
+2021-02-17 11:43:39	[Thread 4]	WARN	SimulationEvaluationHte	fun	There were 978 NAs produced for seed: 22529
+2021-02-17 11:43:41	[Thread 11]	WARN	SimulationEvaluationHte	fun	There were 798 NAs produced for seed: 12266
+2021-02-17 11:43:41	[Thread 23]	WARN	SimulationEvaluationHte	fun	There were 761 NAs produced for seed: 28001
+2021-02-17 11:43:42	[Thread 7]	WARN	SimulationEvaluationHte	fun	There were 404 NAs produced for seed: 96983
+2021-02-17 11:43:43	[Thread 19]	WARN	SimulationEvaluationHte	fun	There were 808 NAs produced for seed: 9424
+2021-02-17 11:43:43	[Thread 35]	WARN	SimulationEvaluationHte	fun	There were 585 NAs produced for seed: 55646
+2021-02-17 11:43:43	[Thread 39]	WARN	SimulationEvaluationHte	fun	There were 304 NAs produced for seed: 68759
+2021-02-17 11:43:45	[Thread 10]	WARN	SimulationEvaluationHte	fun	There were 600 NAs produced for seed: 88273
+2021-02-17 11:43:50	[Thread 7]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:43:51	[Thread 7]	WARN	SimulationEvaluationHte	fun	Run failed for seed:96983
+2021-02-17 11:43:52	[Thread 12]	WARN	SimulationEvaluationHte	fun	There were 1217 NAs produced for seed: 49717
+2021-02-17 11:43:53	[Thread 18]	WARN	SimulationEvaluationHte	fun	There were 1922 NAs produced for seed: 38881
+2021-02-17 11:43:53	[Thread 24]	WARN	SimulationEvaluationHte	fun	There were 766 NAs produced for seed: 1014
+2021-02-17 11:43:53	[Thread 42]	WARN	SimulationEvaluationHte	fun	There were 697 NAs produced for seed: 36668
+2021-02-17 11:43:55	[Thread 28]	WARN	SimulationEvaluationHte	fun	There were 712 NAs produced for seed: 94003
+2021-02-17 11:43:57	[Thread 26]	WARN	SimulationEvaluationHte	fun	There were 558 NAs produced for seed: 69115
+2021-02-17 11:44:00	[Thread 17]	WARN	SimulationEvaluationHte	fun	There were 317 NAs produced for seed: 90065
+2021-02-17 11:44:01	[Thread 32]	WARN	SimulationEvaluationHte	fun	There were 222 NAs produced for seed: 88957
+2021-02-17 11:44:02	[Thread 16]	WARN	SimulationEvaluationHte	fun	There were 497 NAs produced for seed: 62589
+2021-02-17 11:44:03	[Thread 6]	WARN	SimulationEvaluationHte	fun	There were 672 NAs produced for seed: 14206
+2021-02-17 11:44:03	[Thread 25]	WARN	SimulationEvaluationHte	fun	There were 1003 NAs produced for seed: 69543
+2021-02-17 11:44:05	[Thread 30]	WARN	SimulationEvaluationHte	fun	There were 753 NAs produced for seed: 83257
+2021-02-17 11:44:06	[Thread 9]	WARN	SimulationEvaluationHte	fun	There were 587 NAs produced for seed: 24736
+2021-02-17 11:44:07	[Thread 1]	WARN	SimulationEvaluationHte	fun	There were 316 NAs produced for seed: 48392
+2021-02-17 11:44:11	[Thread 33]	WARN	SimulationEvaluationHte	fun	There were 481 NAs produced for seed: 20156
+2021-02-17 11:44:13	[Thread 48]	WARN	SimulationEvaluationHte	fun	There were 274 NAs produced for seed: 96134
+2021-02-17 11:44:16	[Thread 15]	WARN	SimulationEvaluationHte	fun	There were 753 NAs produced for seed: 67691
+2021-02-17 11:44:17	[Thread 50]	WARN	SimulationEvaluationHte	fun	There were 769 NAs produced for seed: 85963
+2021-02-17 11:44:19	[Thread 49]	WARN	SimulationEvaluationHte	fun	There were 1347 NAs produced for seed: 89949
+2021-02-17 11:44:19	[Thread 38]	WARN	SimulationEvaluationHte	fun	There were 48 NAs produced for seed: 34172
+2021-02-17 11:44:21	[Thread 20]	WARN	SimulationEvaluationHte	fun	There were 496 NAs produced for seed: 6552
+2021-02-17 11:44:21	[Thread 14]	WARN	SimulationEvaluationHte	fun	There were 701 NAs produced for seed: 35839
+2021-02-17 11:44:21	[Thread 34]	WARN	SimulationEvaluationHte	fun	There were 690 NAs produced for seed: 59032
+2021-02-17 11:44:22	[Thread 46]	WARN	SimulationEvaluationHte	fun	There were 1358 NAs produced for seed: 38122
+2021-02-17 11:44:22	[Thread 13]	WARN	SimulationEvaluationHte	fun	There were 686 NAs produced for seed: 84190
+2021-02-17 11:44:27	[Thread 45]	WARN	SimulationEvaluationHte	fun	There were 530 NAs produced for seed: 5435
+2021-02-17 11:44:29	[Thread 13]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:44:31	[Thread 2]	WARN	SimulationEvaluationHte	fun	There were 277 NAs produced for seed: 79944
+2021-02-17 11:44:31	[Thread 13]	WARN	SimulationEvaluationHte	fun	Run failed for seed:84190
+2021-02-17 11:44:36	[Thread 43]	WARN	SimulationEvaluationHte	fun	There were 446 NAs produced for seed: 15582
+2021-02-17 11:44:42	[Thread 44]	WARN	SimulationEvaluationHte	fun	There were 733 NAs produced for seed: 67018
+2021-02-17 11:44:44	[Thread 43]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:44:47	[Thread 43]	WARN	SimulationEvaluationHte	fun	Run failed for seed:15582
+2021-02-17 11:44:47	[Thread 27]	WARN	SimulationEvaluationHte	fun	There were 508 NAs produced for seed: 96035
+2021-02-17 11:44:49	[Thread 21]	WARN	SimulationEvaluationHte	fun	There were 737 NAs produced for seed: 314
+2021-02-17 11:44:50	[Thread 7]	WARN	SimulationEvaluationHte	fun	There were 355 NAs produced for seed: 12114
+2021-02-17 11:44:52	[Thread 37]	WARN	SimulationEvaluationHte	fun	There were 493 NAs produced for seed: 84664
+2021-02-17 11:44:54	[Thread 41]	WARN	SimulationEvaluationHte	fun	There were 712 NAs produced for seed: 88940
+2021-02-17 11:44:54	[Thread 29]	WARN	SimulationEvaluationHte	fun	There were 501 NAs produced for seed: 21606
+2021-02-17 11:44:56	[Thread 3]	WARN	SimulationEvaluationHte	fun	There were 273 NAs produced for seed: 74391
+2021-02-17 11:45:00	[Thread 5]	WARN	SimulationEvaluationHte	fun	There were 383 NAs produced for seed: 7431
+2021-02-17 11:45:03	[Thread 8]	WARN	SimulationEvaluationHte	fun	There were 325 NAs produced for seed: 64673
+2021-02-17 11:45:04	[Thread 40]	WARN	SimulationEvaluationHte	fun	There were 1210 NAs produced for seed: 5052
+2021-02-17 11:45:04	[Thread 31]	WARN	SimulationEvaluationHte	fun	There were 867 NAs produced for seed: 54247
+2021-02-17 11:45:05	[Thread 47]	WARN	SimulationEvaluationHte	fun	There were 839 NAs produced for seed: 3192
+2021-02-17 11:45:06	[Thread 36]	WARN	SimulationEvaluationHte	fun	There were 430 NAs produced for seed: 60612
+2021-02-17 11:45:08	[Thread 11]	WARN	SimulationEvaluationHte	fun	There were 534 NAs produced for seed: 99925
+2021-02-17 11:45:08	[Thread 22]	WARN	SimulationEvaluationHte	fun	There were 456 NAs produced for seed: 55615
+2021-02-17 11:45:09	[Thread 4]	WARN	SimulationEvaluationHte	fun	There were 892 NAs produced for seed: 49785
+2021-02-17 11:45:11	[Thread 19]	WARN	SimulationEvaluationHte	fun	There were 583 NAs produced for seed: 71573
+2021-02-17 11:45:11	[Thread 39]	WARN	SimulationEvaluationHte	fun	There were 619 NAs produced for seed: 31204
+2021-02-17 11:45:12	[Thread 40]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:45:13	[Thread 40]	WARN	SimulationEvaluationHte	fun	Run failed for seed:5052
+2021-02-17 11:45:14	[Thread 23]	WARN	SimulationEvaluationHte	fun	There were 973 NAs produced for seed: 94203
+2021-02-17 11:45:15	[Thread 11]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:45:15	[Thread 35]	WARN	SimulationEvaluationHte	fun	There were 277 NAs produced for seed: 81103
+2021-02-17 11:45:15	[Thread 22]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:45:17	[Thread 11]	WARN	SimulationEvaluationHte	fun	Run failed for seed:99925
+2021-02-17 11:45:17	[Thread 10]	WARN	SimulationEvaluationHte	fun	There were 1063 NAs produced for seed: 7613
+2021-02-17 11:45:17	[Thread 22]	WARN	SimulationEvaluationHte	fun	Run failed for seed:55615
+2021-02-17 11:45:18	[Thread 12]	WARN	SimulationEvaluationHte	fun	There were 522 NAs produced for seed: 40786
+2021-02-17 11:45:19	[Thread 19]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:45:21	[Thread 19]	WARN	SimulationEvaluationHte	fun	Run failed for seed:71573
+2021-02-17 11:45:27	[Thread 24]	WARN	SimulationEvaluationHte	fun	There were 682 NAs produced for seed: 9010
+2021-02-17 11:45:27	[Thread 42]	WARN	SimulationEvaluationHte	fun	There were 623 NAs produced for seed: 44196
+2021-02-17 11:45:28	[Thread 28]	WARN	SimulationEvaluationHte	fun	There were 683 NAs produced for seed: 60835
+2021-02-17 11:45:28	[Thread 32]	WARN	SimulationEvaluationHte	fun	There were 854 NAs produced for seed: 3042
+2021-02-17 11:45:30	[Thread 18]	WARN	SimulationEvaluationHte	fun	There were 490 NAs produced for seed: 14076
+2021-02-17 11:45:31	[Thread 26]	WARN	SimulationEvaluationHte	fun	There were 352 NAs produced for seed: 11135
+2021-02-17 11:45:32	[Thread 13]	WARN	SimulationEvaluationHte	fun	There were 402 NAs produced for seed: 69612
+2021-02-17 11:45:33	[Thread 6]	WARN	SimulationEvaluationHte	fun	There were 515 NAs produced for seed: 32859
+2021-02-17 11:45:33	[Thread 17]	WARN	SimulationEvaluationHte	fun	There were 1445 NAs produced for seed: 25848
+2021-02-17 11:45:34	[Thread 1]	WARN	SimulationEvaluationHte	fun	There were 1485 NAs produced for seed: 46235
+2021-02-17 11:45:34	[Thread 16]	WARN	SimulationEvaluationHte	fun	There were 1000 NAs produced for seed: 55866
+2021-02-17 11:45:35	[Thread 25]	WARN	SimulationEvaluationHte	fun	There were 383 NAs produced for seed: 79799
+2021-02-17 11:45:35	[Thread 32]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:45:37	[Thread 9]	WARN	SimulationEvaluationHte	fun	There were 1003 NAs produced for seed: 57727
+2021-02-17 11:45:37	[Thread 32]	WARN	SimulationEvaluationHte	fun	Run failed for seed:3042
+2021-02-17 11:45:39	[Thread 33]	WARN	SimulationEvaluationHte	fun	There were 336 NAs produced for seed: 53229
+2021-02-17 11:45:40	[Thread 13]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:45:41	[Thread 17]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:45:41	[Thread 1]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:45:42	[Thread 6]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:45:42	[Thread 13]	WARN	SimulationEvaluationHte	fun	Run failed for seed:69612
+2021-02-17 11:45:43	[Thread 25]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:45:43	[Thread 17]	WARN	SimulationEvaluationHte	fun	Run failed for seed:25848
+2021-02-17 11:45:43	[Thread 1]	WARN	SimulationEvaluationHte	fun	Run failed for seed:46235
+2021-02-17 11:45:43	[Thread 9]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:45:43	[Thread 6]	WARN	SimulationEvaluationHte	fun	Run failed for seed:32859
+2021-02-17 11:45:44	[Thread 30]	WARN	SimulationEvaluationHte	fun	There were 465 NAs produced for seed: 12900
+2021-02-17 11:45:44	[Thread 25]	WARN	SimulationEvaluationHte	fun	Run failed for seed:79799
+2021-02-17 11:45:45	[Thread 9]	WARN	SimulationEvaluationHte	fun	Run failed for seed:57727
+2021-02-17 11:45:46	[Thread 48]	WARN	SimulationEvaluationHte	fun	There were 367 NAs produced for seed: 51725
+2021-02-17 11:45:47	[Thread 49]	WARN	SimulationEvaluationHte	fun	There were 880 NAs produced for seed: 27526
+2021-02-17 11:45:47	[Thread 50]	WARN	SimulationEvaluationHte	fun	There were 889 NAs produced for seed: 8806
+2021-02-17 11:45:48	[Thread 15]	WARN	SimulationEvaluationHte	fun	There were 371 NAs produced for seed: 79762
+2021-02-17 11:45:50	[Thread 14]	WARN	SimulationEvaluationHte	fun	There were 1754 NAs produced for seed: 96702
+2021-02-17 11:45:50	[Thread 30]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:45:51	[Thread 34]	WARN	SimulationEvaluationHte	fun	There were 844 NAs produced for seed: 55023
+2021-02-17 11:45:51	[Thread 43]	WARN	SimulationEvaluationHte	fun	There were 684 NAs produced for seed: 89311
+2021-02-17 11:45:52	[Thread 30]	WARN	SimulationEvaluationHte	fun	Run failed for seed:12900
+2021-02-17 11:45:53	[Thread 38]	WARN	SimulationEvaluationHte	fun	There were 586 NAs produced for seed: 81172
+2021-02-17 11:45:54	[Thread 49]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:45:55	[Thread 50]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:45:55	[Thread 2]	WARN	SimulationEvaluationHte	fun	There were 1752 NAs produced for seed: 26394
+2021-02-17 11:45:56	[Thread 20]	WARN	SimulationEvaluationHte	fun	There were 377 NAs produced for seed: 69885
+2021-02-17 11:45:56	[Thread 49]	WARN	SimulationEvaluationHte	fun	Run failed for seed:27526
+2021-02-17 11:45:56	[Thread 50]	WARN	SimulationEvaluationHte	fun	Run failed for seed:8806
+2021-02-17 11:45:57	[Thread 46]	WARN	SimulationEvaluationHte	fun	There were 556 NAs produced for seed: 2112
+2021-02-17 11:45:57	[Thread 45]	WARN	SimulationEvaluationHte	fun	There were 556 NAs produced for seed: 55251
+2021-02-17 11:45:58	[Thread 34]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:46:00	[Thread 34]	WARN	SimulationEvaluationHte	fun	Run failed for seed:55023
+2021-02-17 11:46:04	[Thread 45]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:46:05	[Thread 45]	WARN	SimulationEvaluationHte	fun	Run failed for seed:55251
+2021-02-17 11:46:08	[Thread 40]	WARN	SimulationEvaluationHte	fun	There were 804 NAs produced for seed: 62931
+2021-02-17 11:46:13	[Thread 27]	WARN	SimulationEvaluationHte	fun	There were 395 NAs produced for seed: 44579
+2021-02-17 11:46:14	[Thread 7]	WARN	SimulationEvaluationHte	fun	There were 541 NAs produced for seed: 74994
+2021-02-17 11:46:14	[Thread 44]	WARN	SimulationEvaluationHte	fun	There were 992 NAs produced for seed: 30891
+2021-02-17 11:46:16	[Thread 21]	WARN	SimulationEvaluationHte	fun	There were 714 NAs produced for seed: 85692
+2021-02-17 11:46:16	[Thread 37]	WARN	SimulationEvaluationHte	fun	There were 392 NAs produced for seed: 95156
+2021-02-17 11:46:17	[Thread 11]	WARN	SimulationEvaluationHte	fun	There were 396 NAs produced for seed: 27994
+2021-02-17 11:46:19	[Thread 22]	WARN	SimulationEvaluationHte	fun	There were 1118 NAs produced for seed: 51181
+2021-02-17 11:46:22	[Thread 19]	WARN	SimulationEvaluationHte	fun	There were 476 NAs produced for seed: 37206
+2021-02-17 11:46:24	[Thread 21]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:46:25	[Thread 21]	WARN	SimulationEvaluationHte	fun	Run failed for seed:85692
+2021-02-17 11:46:26	[Thread 11]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:46:26	[Thread 3]	WARN	SimulationEvaluationHte	fun	There were 283 NAs produced for seed: 5362
+2021-02-17 11:46:27	[Thread 29]	WARN	SimulationEvaluationHte	fun	There were 435 NAs produced for seed: 94881
+2021-02-17 11:46:27	[Thread 11]	WARN	SimulationEvaluationHte	fun	Run failed for seed:27994
+2021-02-17 11:46:28	[Thread 41]	WARN	SimulationEvaluationHte	fun	There were 582 NAs produced for seed: 65251
+2021-02-17 11:46:31	[Thread 5]	WARN	SimulationEvaluationHte	fun	There were 310 NAs produced for seed: 15919
+2021-02-17 11:46:34	[Thread 47]	WARN	SimulationEvaluationHte	fun	There were 441 NAs produced for seed: 20202
+2021-02-17 11:46:34	[Thread 39]	WARN	SimulationEvaluationHte	fun	There were 343 NAs produced for seed: 3575
+2021-02-17 11:46:36	[Thread 31]	WARN	SimulationEvaluationHte	fun	There were 228 NAs produced for seed: 60888
+2021-02-17 11:46:36	[Thread 4]	WARN	SimulationEvaluationHte	fun	There were 69 NAs produced for seed: 24091
+2021-02-17 11:46:37	[Thread 36]	WARN	SimulationEvaluationHte	fun	There were 393 NAs produced for seed: 4600
+2021-02-17 11:46:38	[Thread 8]	WARN	SimulationEvaluationHte	fun	There were 769 NAs produced for seed: 23888
+2021-02-17 11:46:38	[Thread 32]	WARN	SimulationEvaluationHte	fun	There were 1102 NAs produced for seed: 70019
+2021-02-17 11:46:38	[Thread 41]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:46:41	[Thread 41]	WARN	SimulationEvaluationHte	fun	Run failed for seed:65251
+2021-02-17 11:46:43	[Thread 13]	WARN	SimulationEvaluationHte	fun	There were 457 NAs produced for seed: 78518
+2021-02-17 11:46:44	[Thread 23]	WARN	SimulationEvaluationHte	fun	There were 203 NAs produced for seed: 57083
+2021-02-17 11:46:44	[Thread 12]	WARN	SimulationEvaluationHte	fun	There were 894 NAs produced for seed: 19619
+2021-02-17 11:46:45	[Thread 17]	WARN	SimulationEvaluationHte	fun	There were 518 NAs produced for seed: 79105
+2021-02-17 11:46:46	[Thread 1]	WARN	SimulationEvaluationHte	fun	There were 585 NAs produced for seed: 3890
+2021-02-17 11:46:46	[Thread 6]	WARN	SimulationEvaluationHte	fun	There were 1304 NAs produced for seed: 28050
+2021-02-17 11:46:47	[Thread 35]	WARN	SimulationEvaluationHte	fun	There were 225 NAs produced for seed: 19598
+2021-02-17 11:46:48	[Thread 10]	WARN	SimulationEvaluationHte	fun	There were 419 NAs produced for seed: 47459
+2021-02-17 11:46:48	[Thread 9]	WARN	SimulationEvaluationHte	fun	There were 319 NAs produced for seed: 21153
+2021-02-17 11:46:48	[Thread 25]	WARN	SimulationEvaluationHte	fun	There were 493 NAs produced for seed: 31297
+2021-02-17 11:46:51	[Thread 12]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:46:53	[Thread 12]	WARN	SimulationEvaluationHte	fun	Run failed for seed:19619
+2021-02-17 11:46:54	[Thread 30]	WARN	SimulationEvaluationHte	fun	There were 386 NAs produced for seed: 26868
+2021-02-17 11:46:56	[Thread 24]	WARN	SimulationEvaluationHte	fun	There were 102 NAs produced for seed: 95702
+2021-02-17 11:47:00	[Thread 49]	WARN	SimulationEvaluationHte	fun	There were 245 NAs produced for seed: 3083
+2021-02-17 11:47:01	[Thread 42]	WARN	SimulationEvaluationHte	fun	There were 597 NAs produced for seed: 74343
+2021-02-17 11:47:02	[Thread 28]	WARN	SimulationEvaluationHte	fun	There were 352 NAs produced for seed: 32200
+2021-02-17 11:47:03	[Thread 34]	WARN	SimulationEvaluationHte	fun	There were 619 NAs produced for seed: 44227
+2021-02-17 11:47:04	[Thread 50]	WARN	SimulationEvaluationHte	fun	There were 1085 NAs produced for seed: 64639
+2021-02-17 11:47:05	[Thread 18]	WARN	SimulationEvaluationHte	fun	There were 773 NAs produced for seed: 29962
+2021-02-17 11:47:05	[Thread 26]	WARN	SimulationEvaluationHte	fun	There were 584 NAs produced for seed: 85711
+2021-02-17 11:47:06	[Thread 33]	WARN	SimulationEvaluationHte	fun	There were 747 NAs produced for seed: 58966
+2021-02-17 11:47:09	[Thread 45]	WARN	SimulationEvaluationHte	fun	There were 1159 NAs produced for seed: 6165
+2021-02-17 11:47:09	[Thread 16]	WARN	SimulationEvaluationHte	fun	There were 678 NAs produced for seed: 41590
+2021-02-17 11:47:17	[Thread 45]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:47:18	[Thread 14]	WARN	SimulationEvaluationHte	fun	There were 651 NAs produced for seed: 68461
+2021-02-17 11:47:19	[Thread 15]	WARN	SimulationEvaluationHte	fun	There were 425 NAs produced for seed: 67398
+2021-02-17 11:47:19	[Thread 45]	WARN	SimulationEvaluationHte	fun	Run failed for seed:6165
+2021-02-17 11:47:21	[Thread 48]	WARN	SimulationEvaluationHte	fun	There were 318 NAs produced for seed: 47142
+2021-02-17 11:47:22	[Thread 21]	WARN	SimulationEvaluationHte	fun	There were 162 NAs produced for seed: 52538
+2021-02-17 11:47:23	[Thread 2]	WARN	SimulationEvaluationHte	fun	There were 657 NAs produced for seed: 75076
+2021-02-17 11:47:24	[Thread 43]	WARN	SimulationEvaluationHte	fun	There were 636 NAs produced for seed: 54042
+2021-02-17 11:47:24	[Thread 38]	WARN	SimulationEvaluationHte	fun	There were 351 NAs produced for seed: 52043
+2021-02-17 11:47:29	[Thread 46]	WARN	SimulationEvaluationHte	fun	There were 450 NAs produced for seed: 16060
+2021-02-17 11:47:30	[Thread 2]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:47:30	[Thread 20]	WARN	SimulationEvaluationHte	fun	There were 630 NAs produced for seed: 29157
+2021-02-17 11:47:30	[Thread 11]	WARN	SimulationEvaluationHte	fun	There were 468 NAs produced for seed: 25392
+2021-02-17 11:47:32	[Thread 2]	WARN	SimulationEvaluationHte	fun	Run failed for seed:75076
+2021-02-17 11:47:33	[Thread 40]	WARN	SimulationEvaluationHte	fun	There were 1308 NAs produced for seed: 51918
+2021-02-17 11:47:41	[Thread 44]	WARN	SimulationEvaluationHte	fun	There were 369 NAs produced for seed: 54317
+2021-02-17 11:47:41	[Thread 27]	WARN	SimulationEvaluationHte	fun	There were 765 NAs produced for seed: 32002
+2021-02-17 11:47:41	[Thread 7]	WARN	SimulationEvaluationHte	fun	There were 752 NAs produced for seed: 49343
+2021-02-17 11:47:43	[Thread 41]	WARN	SimulationEvaluationHte	fun	There were 1132 NAs produced for seed: 34111
+2021-02-17 11:47:43	[Thread 37]	WARN	SimulationEvaluationHte	fun	There were 546 NAs produced for seed: 9417
+2021-02-17 11:47:45	[Thread 22]	WARN	SimulationEvaluationHte	fun	There were 390 NAs produced for seed: 34687
+2021-02-17 11:47:52	[Thread 12]	WARN	SimulationEvaluationHte	fun	There were 580 NAs produced for seed: 68601
+2021-02-17 11:47:54	[Thread 3]	WARN	SimulationEvaluationHte	fun	There were 1145 NAs produced for seed: 21051
+2021-02-17 11:47:57	[Thread 19]	WARN	SimulationEvaluationHte	fun	There were 130 NAs produced for seed: 17599
+2021-02-17 11:47:57	[Thread 29]	WARN	SimulationEvaluationHte	fun	There were 313 NAs produced for seed: 3745
+2021-02-17 11:48:01	[Thread 5]	WARN	SimulationEvaluationHte	fun	There were 1009 NAs produced for seed: 17992
+2021-02-17 11:48:01	[Thread 39]	WARN	SimulationEvaluationHte	fun	There were 647 NAs produced for seed: 91397
+2021-02-17 11:48:02	[Thread 31]	WARN	SimulationEvaluationHte	fun	There were 413 NAs produced for seed: 55669
+2021-02-17 11:48:04	[Thread 29]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:48:05	[Thread 32]	WARN	SimulationEvaluationHte	fun	There were 514 NAs produced for seed: 91351
+2021-02-17 11:48:05	[Thread 4]	WARN	SimulationEvaluationHte	fun	There were 1234 NAs produced for seed: 89240
+2021-02-17 11:48:06	[Thread 36]	WARN	SimulationEvaluationHte	fun	There were 385 NAs produced for seed: 27877
+2021-02-17 11:48:06	[Thread 29]	WARN	SimulationEvaluationHte	fun	Run failed for seed:3745
+2021-02-17 11:48:07	[Thread 47]	WARN	SimulationEvaluationHte	fun	There were 632 NAs produced for seed: 3994
+2021-02-17 11:48:08	[Thread 39]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:48:09	[Thread 8]	WARN	SimulationEvaluationHte	fun	There were 376 NAs produced for seed: 70859
+2021-02-17 11:48:10	[Thread 39]	WARN	SimulationEvaluationHte	fun	Run failed for seed:91397
+2021-02-17 11:48:13	[Thread 32]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:48:14	[Thread 23]	WARN	SimulationEvaluationHte	fun	There were 375 NAs produced for seed: 80001
+2021-02-17 11:48:15	[Thread 13]	WARN	SimulationEvaluationHte	fun	There were 1030 NAs produced for seed: 91504
+2021-02-17 11:48:15	[Thread 17]	WARN	SimulationEvaluationHte	fun	There were 610 NAs produced for seed: 88036
+2021-02-17 11:48:15	[Thread 32]	WARN	SimulationEvaluationHte	fun	Run failed for seed:91351
+2021-02-17 11:48:16	[Thread 35]	WARN	SimulationEvaluationHte	fun	There were 532 NAs produced for seed: 7713
+2021-02-17 11:48:19	[Thread 1]	WARN	SimulationEvaluationHte	fun	There were 596 NAs produced for seed: 73130
+2021-02-17 11:48:19	[Thread 9]	WARN	SimulationEvaluationHte	fun	There were 592 NAs produced for seed: 53760
+2021-02-17 11:48:19	[Thread 25]	WARN	SimulationEvaluationHte	fun	There were 753 NAs produced for seed: 26621
+2021-02-17 11:48:21	[Thread 23]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:48:21	[Thread 13]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:48:21	[Thread 6]	WARN	SimulationEvaluationHte	fun	There were 108 NAs produced for seed: 17305
+2021-02-17 11:48:22	[Thread 45]	WARN	SimulationEvaluationHte	fun	There were 569 NAs produced for seed: 10646
+2021-02-17 11:48:22	[Thread 23]	WARN	SimulationEvaluationHte	fun	Run failed for seed:80001
+2021-02-17 11:48:23	[Thread 13]	WARN	SimulationEvaluationHte	fun	Run failed for seed:91504
+2021-02-17 11:48:23	[Thread 30]	WARN	SimulationEvaluationHte	fun	There were 1086 NAs produced for seed: 42484
+2021-02-17 11:48:23	[Thread 24]	WARN	SimulationEvaluationHte	fun	There were 644 NAs produced for seed: 71325
+2021-02-17 11:48:25	[Thread 10]	WARN	SimulationEvaluationHte	fun	There were 416 NAs produced for seed: 55967
+2021-02-17 11:48:27	[Thread 25]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:48:29	[Thread 25]	WARN	SimulationEvaluationHte	fun	Run failed for seed:26621
+2021-02-17 11:48:30	[Thread 30]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:48:31	[Thread 30]	WARN	SimulationEvaluationHte	fun	Run failed for seed:42484
+2021-02-17 11:48:32	[Thread 42]	WARN	SimulationEvaluationHte	fun	There were 701 NAs produced for seed: 78588
+2021-02-17 11:48:33	[Thread 2]	WARN	SimulationEvaluationHte	fun	There were 532 NAs produced for seed: 23713
+2021-02-17 11:48:34	[Thread 49]	WARN	SimulationEvaluationHte	fun	There were 790 NAs produced for seed: 17208
+2021-02-17 11:48:34	[Thread 10]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:48:34	[Thread 18]	WARN	SimulationEvaluationHte	fun	There were 506 NAs produced for seed: 95014
+2021-02-17 11:48:36	[Thread 50]	WARN	SimulationEvaluationHte	fun	There were 509 NAs produced for seed: 29005
+2021-02-17 11:48:36	[Thread 34]	WARN	SimulationEvaluationHte	fun	There were 550 NAs produced for seed: 13828
+2021-02-17 11:48:37	[Thread 10]	WARN	SimulationEvaluationHte	fun	Run failed for seed:55967
+2021-02-17 11:48:37	[Thread 28]	WARN	SimulationEvaluationHte	fun	There were 577 NAs produced for seed: 87474
+2021-02-17 11:48:38	[Thread 26]	WARN	SimulationEvaluationHte	fun	There were 76 NAs produced for seed: 99867
+2021-02-17 11:48:38	[Thread 33]	WARN	SimulationEvaluationHte	fun	There were 283 NAs produced for seed: 96624
+2021-02-17 11:48:40	[Thread 42]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:48:42	[Thread 16]	WARN	SimulationEvaluationHte	fun	There were 409 NAs produced for seed: 57385
+2021-02-17 11:48:43	[Thread 42]	WARN	SimulationEvaluationHte	fun	Run failed for seed:78588
+2021-02-17 11:48:46	[Thread 21]	WARN	SimulationEvaluationHte	fun	There were 1055 NAs produced for seed: 3730
+2021-02-17 11:48:49	[Thread 14]	WARN	SimulationEvaluationHte	fun	There were 749 NAs produced for seed: 70011
+2021-02-17 11:48:53	[Thread 48]	WARN	SimulationEvaluationHte	fun	There were 1132 NAs produced for seed: 70188
+2021-02-17 11:48:55	[Thread 43]	WARN	SimulationEvaluationHte	fun	There were 1813 NAs produced for seed: 89142
+2021-02-17 11:48:56	[Thread 15]	WARN	SimulationEvaluationHte	fun	There were 561 NAs produced for seed: 34196
+2021-02-17 11:48:56	[Thread 38]	WARN	SimulationEvaluationHte	fun	There were 1124 NAs produced for seed: 18311
+2021-02-17 11:48:58	[Thread 40]	WARN	SimulationEvaluationHte	fun	There were 656 NAs produced for seed: 37320
+2021-02-17 11:48:58	[Thread 11]	WARN	SimulationEvaluationHte	fun	There were 540 NAs produced for seed: 56132
+2021-02-17 11:49:01	[Thread 20]	WARN	SimulationEvaluationHte	fun	There were 690 NAs produced for seed: 11906
+2021-02-17 11:49:02	[Thread 46]	WARN	SimulationEvaluationHte	fun	There were 759 NAs produced for seed: 78631
+2021-02-17 11:49:07	[Thread 7]	WARN	SimulationEvaluationHte	fun	There were 575 NAs produced for seed: 68364
+2021-02-17 11:49:07	[Thread 29]	WARN	SimulationEvaluationHte	fun	There were 394 NAs produced for seed: 4130
+2021-02-17 11:49:09	[Thread 37]	WARN	SimulationEvaluationHte	fun	There were 813 NAs produced for seed: 10466
+2021-02-17 11:49:10	[Thread 44]	WARN	SimulationEvaluationHte	fun	There were 355 NAs produced for seed: 37238
+2021-02-17 11:49:10	[Thread 27]	WARN	SimulationEvaluationHte	fun	There were 799 NAs produced for seed: 50138
+2021-02-17 11:49:11	[Thread 39]	WARN	SimulationEvaluationHte	fun	There were 560 NAs produced for seed: 71059
+2021-02-17 11:49:11	[Thread 22]	WARN	SimulationEvaluationHte	fun	There were 754 NAs produced for seed: 25408
+2021-02-17 11:49:14	[Thread 32]	WARN	SimulationEvaluationHte	fun	There were 416 NAs produced for seed: 2166
+2021-02-17 11:49:15	[Thread 41]	WARN	SimulationEvaluationHte	fun	There were 942 NAs produced for seed: 84094
+2021-02-17 11:49:23	[Thread 12]	WARN	SimulationEvaluationHte	fun	There were 657 NAs produced for seed: 55943
+2021-02-17 11:49:23	[Thread 23]	WARN	SimulationEvaluationHte	fun	There were 758 NAs produced for seed: 59042
+2021-02-17 11:49:24	[Thread 3]	WARN	SimulationEvaluationHte	fun	There were 744 NAs produced for seed: 71244
+2021-02-17 11:49:27	[Thread 13]	WARN	SimulationEvaluationHte	fun	There were 334 NAs produced for seed: 62270
+2021-02-17 11:49:31	[Thread 25]	WARN	SimulationEvaluationHte	fun	There were 693 NAs produced for seed: 18598
+2021-02-17 11:49:31	[Thread 5]	WARN	SimulationEvaluationHte	fun	There were 775 NAs produced for seed: 60151
+2021-02-17 11:49:32	[Thread 19]	WARN	SimulationEvaluationHte	fun	There were 464 NAs produced for seed: 48409
+2021-02-17 11:49:33	[Thread 30]	WARN	SimulationEvaluationHte	fun	There were 657 NAs produced for seed: 30784
+2021-02-17 11:49:33	[Thread 36]	WARN	SimulationEvaluationHte	fun	There were 139 NAs produced for seed: 97445
+2021-02-17 11:49:33	[Thread 4]	WARN	SimulationEvaluationHte	fun	There were 686 NAs produced for seed: 2970
+2021-02-17 11:49:33	[Thread 31]	WARN	SimulationEvaluationHte	fun	There were 852 NAs produced for seed: 48110
+2021-02-17 11:49:35	[Thread 13]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:49:37	[Thread 13]	WARN	SimulationEvaluationHte	fun	Run failed for seed:62270
+2021-02-17 11:49:38	[Thread 47]	WARN	SimulationEvaluationHte	fun	There were 576 NAs produced for seed: 9816
+2021-02-17 11:49:40	[Thread 42]	WARN	SimulationEvaluationHte	fun	There were 616 NAs produced for seed: 1340
+2021-02-17 11:49:41	[Thread 17]	WARN	SimulationEvaluationHte	fun	There were 515 NAs produced for seed: 9332
+2021-02-17 11:49:41	[Thread 8]	WARN	SimulationEvaluationHte	fun	There were 110 NAs produced for seed: 77515
+2021-02-17 11:49:41	[Thread 10]	WARN	SimulationEvaluationHte	fun	There were 760 NAs produced for seed: 48572
+2021-02-17 11:49:42	[Thread 35]	WARN	SimulationEvaluationHte	fun	There were 646 NAs produced for seed: 80832
+2021-02-17 11:49:49	[Thread 42]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:49:49	[Thread 9]	WARN	SimulationEvaluationHte	fun	There were 1184 NAs produced for seed: 82442
+2021-02-17 11:49:51	[Thread 42]	WARN	SimulationEvaluationHte	fun	Run failed for seed:1340
+2021-02-17 11:49:52	[Thread 24]	WARN	SimulationEvaluationHte	fun	There were 379 NAs produced for seed: 26088
+2021-02-17 11:49:52	[Thread 45]	WARN	SimulationEvaluationHte	fun	There were 216 NAs produced for seed: 49807
+2021-02-17 11:49:53	[Thread 1]	WARN	SimulationEvaluationHte	fun	There were 1328 NAs produced for seed: 48883
+2021-02-17 11:49:54	[Thread 6]	WARN	SimulationEvaluationHte	fun	There were 385 NAs produced for seed: 73043
+2021-02-17 11:49:59	[Thread 45]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:50:01	[Thread 2]	WARN	SimulationEvaluationHte	fun	There were 282 NAs produced for seed: 21657
+2021-02-17 11:50:01	[Thread 45]	WARN	SimulationEvaluationHte	fun	Run failed for seed:49807
+2021-02-17 11:50:06	[Thread 26]	WARN	SimulationEvaluationHte	fun	There were 1647 NAs produced for seed: 91385
+2021-02-17 11:50:06	[Thread 33]	WARN	SimulationEvaluationHte	fun	There were 510 NAs produced for seed: 64420
+2021-02-17 11:50:07	[Thread 49]	WARN	SimulationEvaluationHte	fun	There were 173 NAs produced for seed: 36554
+2021-02-17 11:50:07	[Thread 18]	WARN	SimulationEvaluationHte	fun	There were 672 NAs produced for seed: 18950
+2021-02-17 11:50:09	[Thread 34]	WARN	SimulationEvaluationHte	fun	There were 589 NAs produced for seed: 30576
+2021-02-17 11:50:10	[Thread 50]	WARN	SimulationEvaluationHte	fun	There were 715 NAs produced for seed: 92961
+2021-02-17 11:50:11	[Thread 28]	WARN	SimulationEvaluationHte	fun	There were 629 NAs produced for seed: 56025
+2021-02-17 11:50:13	[Thread 16]	WARN	SimulationEvaluationHte	fun	There were 360 NAs produced for seed: 46232
+2021-02-17 11:50:14	[Thread 21]	WARN	SimulationEvaluationHte	fun	There were 720 NAs produced for seed: 29103
+2021-02-17 11:50:21	[Thread 14]	WARN	SimulationEvaluationHte	fun	There were 644 NAs produced for seed: 53480
+2021-02-17 11:50:24	[Thread 40]	WARN	SimulationEvaluationHte	fun	There were 576 NAs produced for seed: 81150
+2021-02-17 11:50:24	[Thread 43]	WARN	SimulationEvaluationHte	fun	There were 356 NAs produced for seed: 40785
+2021-02-17 11:50:27	[Thread 38]	WARN	SimulationEvaluationHte	fun	There were 1097 NAs produced for seed: 74447
+2021-02-17 11:50:28	[Thread 11]	WARN	SimulationEvaluationHte	fun	There were 634 NAs produced for seed: 74042
+2021-02-17 11:50:28	[Thread 14]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:50:29	[Thread 48]	WARN	SimulationEvaluationHte	fun	There were 1098 NAs produced for seed: 15959
+2021-02-17 11:50:30	[Thread 14]	WARN	SimulationEvaluationHte	fun	Run failed for seed:53480
+2021-02-17 11:50:31	[Thread 37]	WARN	SimulationEvaluationHte	fun	There were 330 NAs produced for seed: 17967
+2021-02-17 11:50:31	[Thread 15]	WARN	SimulationEvaluationHte	fun	There were 475 NAs produced for seed: 94344
+2021-02-17 11:50:31	[Thread 7]	WARN	SimulationEvaluationHte	fun	There were 584 NAs produced for seed: 98115
+2021-02-17 11:50:33	[Thread 46]	WARN	SimulationEvaluationHte	fun	There were 662 NAs produced for seed: 35674
+2021-02-17 11:50:33	[Thread 20]	WARN	SimulationEvaluationHte	fun	There were 444 NAs produced for seed: 46233
+2021-02-17 11:50:38	[Thread 13]	WARN	SimulationEvaluationHte	fun	There were 611 NAs produced for seed: 16966
+2021-02-17 11:50:39	[Thread 29]	WARN	SimulationEvaluationHte	fun	There were 627 NAs produced for seed: 40013
+2021-02-17 11:50:41	[Thread 44]	WARN	SimulationEvaluationHte	fun	There were 317 NAs produced for seed: 12430
+2021-02-17 11:50:42	[Thread 22]	WARN	SimulationEvaluationHte	fun	There were 455 NAs produced for seed: 46594
+2021-02-17 11:50:43	[Thread 27]	WARN	SimulationEvaluationHte	fun	There were 357 NAs produced for seed: 1686
+2021-02-17 11:50:43	[Thread 41]	WARN	SimulationEvaluationHte	fun	There were 1201 NAs produced for seed: 92289
+2021-02-17 11:50:45	[Thread 39]	WARN	SimulationEvaluationHte	fun	There were 498 NAs produced for seed: 68196
+2021-02-17 11:50:46	[Thread 32]	WARN	SimulationEvaluationHte	fun	There were 605 NAs produced for seed: 86191
+2021-02-17 11:50:50	[Thread 3]	WARN	SimulationEvaluationHte	fun	There were 602 NAs produced for seed: 3949
+2021-02-17 11:50:52	[Thread 42]	WARN	SimulationEvaluationHte	fun	There were 280 NAs produced for seed: 93064
+2021-02-17 11:50:53	[Thread 23]	WARN	SimulationEvaluationHte	fun	There were 70 NAs produced for seed: 93055
+2021-02-17 11:50:54	[Thread 12]	WARN	SimulationEvaluationHte	fun	There were 178 NAs produced for seed: 66424
+2021-02-17 11:50:58	[Thread 25]	WARN	SimulationEvaluationHte	fun	There were 553 NAs produced for seed: 54698
+2021-02-17 11:51:01	[Thread 5]	WARN	SimulationEvaluationHte	fun	There were 723 NAs produced for seed: 32094
+2021-02-17 11:51:03	[Thread 36]	WARN	SimulationEvaluationHte	fun	There were 514 NAs produced for seed: 50640
+2021-02-17 11:51:03	[Thread 19]	WARN	SimulationEvaluationHte	fun	There were 652 NAs produced for seed: 54758
+2021-02-17 11:51:04	[Thread 30]	WARN	SimulationEvaluationHte	fun	There were 566 NAs produced for seed: 72672
+2021-02-17 11:51:05	[Thread 45]	WARN	SimulationEvaluationHte	fun	There were 888 NAs produced for seed: 73754
+2021-02-17 11:51:05	[Thread 31]	WARN	SimulationEvaluationHte	fun	There were 723 NAs produced for seed: 88973
+2021-02-17 11:51:06	[Thread 4]	WARN	SimulationEvaluationHte	fun	There were 588 NAs produced for seed: 14233
+2021-02-17 11:51:06	[Thread 25]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:51:06	[Thread 47]	WARN	SimulationEvaluationHte	fun	There were 177 NAs produced for seed: 64301
+2021-02-17 11:51:07	[Thread 5]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:51:08	[Thread 25]	WARN	SimulationEvaluationHte	fun	Run failed for seed:54698
+2021-02-17 11:51:10	[Thread 5]	WARN	SimulationEvaluationHte	fun	Run failed for seed:32094
+2021-02-17 11:51:11	[Thread 35]	WARN	SimulationEvaluationHte	fun	There were 359 NAs produced for seed: 99696
+2021-02-17 11:51:13	[Thread 45]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:51:14	[Thread 17]	WARN	SimulationEvaluationHte	fun	There were 475 NAs produced for seed: 27005
+2021-02-17 11:51:15	[Thread 45]	WARN	SimulationEvaluationHte	fun	Run failed for seed:73754
+2021-02-17 11:51:18	[Thread 8]	WARN	SimulationEvaluationHte	fun	There were 402 NAs produced for seed: 15438
+2021-02-17 11:51:18	[Thread 10]	WARN	SimulationEvaluationHte	fun	There were 464 NAs produced for seed: 75800
+2021-02-17 11:51:18	[Thread 35]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:51:20	[Thread 9]	WARN	SimulationEvaluationHte	fun	There were 374 NAs produced for seed: 61481
+2021-02-17 11:51:20	[Thread 35]	WARN	SimulationEvaluationHte	fun	Run failed for seed:99696
+2021-02-17 11:51:20	[Thread 24]	WARN	SimulationEvaluationHte	fun	There were 363 NAs produced for seed: 97398
+2021-02-17 11:51:23	[Thread 1]	WARN	SimulationEvaluationHte	fun	There were 485 NAs produced for seed: 52416
+2021-02-17 11:51:26	[Thread 6]	WARN	SimulationEvaluationHte	fun	There were 449 NAs produced for seed: 86421
+2021-02-17 11:51:29	[Thread 2]	WARN	SimulationEvaluationHte	fun	There were 695 NAs produced for seed: 27540
+2021-02-17 11:51:31	[Thread 14]	WARN	SimulationEvaluationHte	fun	There were 928 NAs produced for seed: 3593
+2021-02-17 11:51:37	[Thread 2]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:51:37	[Thread 26]	WARN	SimulationEvaluationHte	fun	There were 797 NAs produced for seed: 99084
+2021-02-17 11:51:37	[Thread 33]	WARN	SimulationEvaluationHte	fun	There were 555 NAs produced for seed: 3364
+2021-02-17 11:51:38	[Thread 21]	WARN	SimulationEvaluationHte	fun	There were 871 NAs produced for seed: 84617
+2021-02-17 11:51:38	[Thread 28]	WARN	SimulationEvaluationHte	fun	There were 677 NAs produced for seed: 61051
+2021-02-17 11:51:39	[Thread 2]	WARN	SimulationEvaluationHte	fun	Run failed for seed:27540
+2021-02-17 11:51:41	[Thread 49]	WARN	SimulationEvaluationHte	fun	There were 552 NAs produced for seed: 82211
+2021-02-17 11:51:41	[Thread 34]	WARN	SimulationEvaluationHte	fun	There were 486 NAs produced for seed: 62636
+2021-02-17 11:51:44	[Thread 50]	WARN	SimulationEvaluationHte	fun	There were 615 NAs produced for seed: 39731
+2021-02-17 11:51:44	[Thread 16]	WARN	SimulationEvaluationHte	fun	There were 304 NAs produced for seed: 74916
+2021-02-17 11:51:45	[Thread 26]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:51:46	[Thread 18]	WARN	SimulationEvaluationHte	fun	There were 561 NAs produced for seed: 76360
+2021-02-17 11:51:47	[Thread 26]	WARN	SimulationEvaluationHte	fun	Run failed for seed:99084
+2021-02-17 11:51:50	[Thread 40]	WARN	SimulationEvaluationHte	fun	There were 532 NAs produced for seed: 25704
+2021-02-17 11:51:53	[Thread 43]	WARN	SimulationEvaluationHte	fun	There were 655 NAs produced for seed: 38553
+2021-02-17 11:51:54	[Thread 11]	WARN	SimulationEvaluationHte	fun	There were 681 NAs produced for seed: 95321
+2021-02-17 11:51:55	[Thread 37]	WARN	SimulationEvaluationHte	fun	There were 417 NAs produced for seed: 71166
+2021-02-17 11:51:56	[Thread 38]	WARN	SimulationEvaluationHte	fun	There were 327 NAs produced for seed: 14729
+2021-02-17 11:52:00	[Thread 15]	WARN	SimulationEvaluationHte	fun	There were 505 NAs produced for seed: 37265
+2021-02-17 11:52:01	[Thread 46]	WARN	SimulationEvaluationHte	fun	There were 569 NAs produced for seed: 40872
+2021-02-17 11:52:03	[Thread 38]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:52:04	[Thread 7]	WARN	SimulationEvaluationHte	fun	There were 1043 NAs produced for seed: 94920
+2021-02-17 11:52:04	[Thread 44]	WARN	SimulationEvaluationHte	fun	There were 489 NAs produced for seed: 66010
+2021-02-17 11:52:05	[Thread 38]	WARN	SimulationEvaluationHte	fun	Run failed for seed:14729
+2021-02-17 11:52:06	[Thread 48]	WARN	SimulationEvaluationHte	fun	There were 325 NAs produced for seed: 47711
+2021-02-17 11:52:07	[Thread 20]	WARN	SimulationEvaluationHte	fun	There were 417 NAs produced for seed: 77560
+2021-02-17 11:52:10	[Thread 5]	WARN	SimulationEvaluationHte	fun	There were 736 NAs produced for seed: 77798
+2021-02-17 11:52:10	[Thread 46]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:52:10	[Thread 29]	WARN	SimulationEvaluationHte	fun	There were 681 NAs produced for seed: 15804
+2021-02-17 11:52:12	[Thread 46]	WARN	SimulationEvaluationHte	fun	Run failed for seed:40872
+2021-02-17 11:52:12	[Thread 27]	WARN	SimulationEvaluationHte	fun	There were 737 NAs produced for seed: 45503
+2021-02-17 11:52:13	[Thread 25]	WARN	SimulationEvaluationHte	fun	There were 545 NAs produced for seed: 39663
+2021-02-17 11:52:13	[Thread 41]	WARN	SimulationEvaluationHte	fun	There were 625 NAs produced for seed: 97452
+2021-02-17 11:52:14	[Thread 13]	WARN	SimulationEvaluationHte	fun	There were 402 NAs produced for seed: 26404
+2021-02-17 11:52:15	[Thread 22]	WARN	SimulationEvaluationHte	fun	There were 843 NAs produced for seed: 94420
+2021-02-17 11:52:15	[Thread 32]	WARN	SimulationEvaluationHte	fun	There were 700 NAs produced for seed: 24557
+2021-02-17 11:52:17	[Thread 39]	WARN	SimulationEvaluationHte	fun	There were 526 NAs produced for seed: 52010
+2021-02-17 11:52:18	[Thread 29]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:52:18	[Thread 5]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:52:18	[Thread 3]	WARN	SimulationEvaluationHte	fun	There were 646 NAs produced for seed: 39778
+2021-02-17 11:52:19	[Thread 23]	WARN	SimulationEvaluationHte	fun	There were 342 NAs produced for seed: 88517
+2021-02-17 11:52:19	[Thread 45]	WARN	SimulationEvaluationHte	fun	There were 546 NAs produced for seed: 87737
+2021-02-17 11:52:20	[Thread 5]	WARN	SimulationEvaluationHte	fun	Run failed for seed:77798
+2021-02-17 11:52:20	[Thread 29]	WARN	SimulationEvaluationHte	fun	Run failed for seed:15804
+2021-02-17 11:52:21	[Thread 35]	WARN	SimulationEvaluationHte	fun	There were 575 NAs produced for seed: 25355
+2021-02-17 11:52:23	[Thread 42]	WARN	SimulationEvaluationHte	fun	There were 682 NAs produced for seed: 6169
+2021-02-17 11:52:25	[Thread 12]	WARN	SimulationEvaluationHte	fun	There were 644 NAs produced for seed: 32754
+2021-02-17 11:52:31	[Thread 19]	WARN	SimulationEvaluationHte	fun	There were 411 NAs produced for seed: 72429
+2021-02-17 11:52:32	[Thread 36]	WARN	SimulationEvaluationHte	fun	There were 577 NAs produced for seed: 74546
+2021-02-17 11:52:32	[Thread 4]	WARN	SimulationEvaluationHte	fun	There were 1152 NAs produced for seed: 41699
+2021-02-17 11:52:33	[Thread 42]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:52:34	[Thread 30]	WARN	SimulationEvaluationHte	fun	There were 1049 NAs produced for seed: 49175
+2021-02-17 11:52:34	[Thread 47]	WARN	SimulationEvaluationHte	fun	There were 308 NAs produced for seed: 51302
+2021-02-17 11:52:34	[Thread 31]	WARN	SimulationEvaluationHte	fun	There were 402 NAs produced for seed: 70976
+2021-02-17 11:52:35	[Thread 42]	WARN	SimulationEvaluationHte	fun	Run failed for seed:6169
+2021-02-17 11:52:38	[Thread 2]	WARN	SimulationEvaluationHte	fun	There were 714 NAs produced for seed: 22467
+2021-02-17 11:52:47	[Thread 26]	WARN	SimulationEvaluationHte	fun	There were 702 NAs produced for seed: 52478
+2021-02-17 11:52:48	[Thread 10]	WARN	SimulationEvaluationHte	fun	There were 549 NAs produced for seed: 27299
+2021-02-17 11:52:49	[Thread 24]	WARN	SimulationEvaluationHte	fun	There were 675 NAs produced for seed: 25964
+2021-02-17 11:52:50	[Thread 17]	WARN	SimulationEvaluationHte	fun	There were 463 NAs produced for seed: 52972
+2021-02-17 11:52:53	[Thread 9]	WARN	SimulationEvaluationHte	fun	There were 463 NAs produced for seed: 65181
+2021-02-17 11:52:53	[Thread 1]	WARN	SimulationEvaluationHte	fun	There were 370 NAs produced for seed: 635
+2021-02-17 11:52:56	[Thread 6]	WARN	SimulationEvaluationHte	fun	There were 740 NAs produced for seed: 24019
+2021-02-17 11:52:58	[Thread 8]	WARN	SimulationEvaluationHte	fun	There were 569 NAs produced for seed: 24142
+2021-02-17 11:53:02	[Thread 14]	WARN	SimulationEvaluationHte	fun	There were 164 NAs produced for seed: 80916
+2021-02-17 11:53:06	[Thread 21]	WARN	SimulationEvaluationHte	fun	There were 748 NAs produced for seed: 83455
+2021-02-17 11:53:06	[Thread 38]	WARN	SimulationEvaluationHte	fun	There were 408 NAs produced for seed: 74603
+2021-02-17 11:53:06	[Thread 28]	WARN	SimulationEvaluationHte	fun	There were 559 NAs produced for seed: 34725
+2021-02-17 11:53:07	[Thread 33]	WARN	SimulationEvaluationHte	fun	There were 215 NAs produced for seed: 68482
+2021-02-17 11:53:14	[Thread 34]	WARN	SimulationEvaluationHte	fun	There were 351 NAs produced for seed: 23696
+2021-02-17 11:53:15	[Thread 49]	WARN	SimulationEvaluationHte	fun	There were 218 NAs produced for seed: 3986
+2021-02-17 11:53:15	[Thread 5]	WARN	SimulationEvaluationHte	fun	There were 423 NAs produced for seed: 31049
+2021-02-17 11:53:16	[Thread 33]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:53:16	[Thread 16]	WARN	SimulationEvaluationHte	fun	There were 536 NAs produced for seed: 21272
+2021-02-17 11:53:16	[Thread 46]	WARN	SimulationEvaluationHte	fun	There were 210 NAs produced for seed: 46966
+2021-02-17 11:53:17	[Thread 33]	WARN	SimulationEvaluationHte	fun	Run failed for seed:68482
+2021-02-17 11:53:19	[Thread 40]	WARN	SimulationEvaluationHte	fun	There were 691 NAs produced for seed: 68807
+2021-02-17 11:53:19	[Thread 29]	WARN	SimulationEvaluationHte	fun	There were 212 NAs produced for seed: 86375
+2021-02-17 11:53:19	[Thread 50]	WARN	SimulationEvaluationHte	fun	There were 422 NAs produced for seed: 88999
+2021-02-17 11:53:23	[Thread 43]	WARN	SimulationEvaluationHte	fun	There were 587 NAs produced for seed: 14098
+2021-02-17 11:53:24	[Thread 11]	WARN	SimulationEvaluationHte	fun	There were 512 NAs produced for seed: 58647
+2021-02-17 11:53:25	[Thread 37]	WARN	SimulationEvaluationHte	fun	There were 384 NAs produced for seed: 89025
+2021-02-17 11:53:25	[Thread 18]	WARN	SimulationEvaluationHte	fun	There were 586 NAs produced for seed: 35754
+2021-02-17 11:53:31	[Thread 44]	WARN	SimulationEvaluationHte	fun	There were 838 NAs produced for seed: 48762
+2021-02-17 11:53:31	[Thread 15]	WARN	SimulationEvaluationHte	fun	There were 688 NAs produced for seed: 74203
+2021-02-17 11:53:32	[Thread 43]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:53:33	[Thread 18]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:53:34	[Thread 43]	WARN	SimulationEvaluationHte	fun	Run failed for seed:14098
+2021-02-17 11:53:34	[Thread 7]	WARN	SimulationEvaluationHte	fun	There were 376 NAs produced for seed: 49329
+2021-02-17 11:53:35	[Thread 18]	WARN	SimulationEvaluationHte	fun	Run failed for seed:35754
+2021-02-17 11:53:37	[Thread 41]	WARN	SimulationEvaluationHte	fun	There were 1032 NAs produced for seed: 45462
+2021-02-17 11:53:37	[Thread 42]	WARN	SimulationEvaluationHte	fun	There were 1256 NAs produced for seed: 11374
+2021-02-17 11:53:39	[Thread 27]	WARN	SimulationEvaluationHte	fun	There were 171 NAs produced for seed: 93618
+2021-02-17 11:53:39	[Thread 15]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:53:41	[Thread 15]	WARN	SimulationEvaluationHte	fun	Run failed for seed:74203
+2021-02-17 11:53:44	[Thread 39]	WARN	SimulationEvaluationHte	fun	There were 1678 NAs produced for seed: 6289
+2021-02-17 11:53:44	[Thread 32]	WARN	SimulationEvaluationHte	fun	There were 643 NAs produced for seed: 91551
+2021-02-17 11:53:44	[Thread 25]	WARN	SimulationEvaluationHte	fun	There were 604 NAs produced for seed: 35764
+2021-02-17 11:53:45	[Thread 48]	WARN	SimulationEvaluationHte	fun	There were 764 NAs produced for seed: 87799
+2021-02-17 11:53:45	[Thread 22]	WARN	SimulationEvaluationHte	fun	There were 497 NAs produced for seed: 40210
+2021-02-17 11:53:46	[Thread 13]	WARN	SimulationEvaluationHte	fun	There were 290 NAs produced for seed: 93423
+2021-02-17 11:53:46	[Thread 20]	WARN	SimulationEvaluationHte	fun	There were 272 NAs produced for seed: 19478
+2021-02-17 11:53:46	[Thread 3]	WARN	SimulationEvaluationHte	fun	There were 674 NAs produced for seed: 7318
+2021-02-17 11:53:51	[Thread 23]	WARN	SimulationEvaluationHte	fun	There were 1083 NAs produced for seed: 66561
+2021-02-17 11:53:52	[Thread 32]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:53:52	[Thread 12]	WARN	SimulationEvaluationHte	fun	There were 322 NAs produced for seed: 9059
+2021-02-17 11:53:54	[Thread 32]	WARN	SimulationEvaluationHte	fun	Run failed for seed:91551
+2021-02-17 11:53:54	[Thread 35]	WARN	SimulationEvaluationHte	fun	There were 717 NAs produced for seed: 36081
+2021-02-17 11:53:55	[Thread 45]	WARN	SimulationEvaluationHte	fun	There were 889 NAs produced for seed: 35760
+2021-02-17 11:53:57	[Thread 36]	WARN	SimulationEvaluationHte	fun	There were 395 NAs produced for seed: 53410
+2021-02-17 11:53:59	[Thread 23]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:54:01	[Thread 23]	WARN	SimulationEvaluationHte	fun	Run failed for seed:66561
+2021-02-17 11:54:02	[Thread 31]	WARN	SimulationEvaluationHte	fun	There were 601 NAs produced for seed: 87654
+2021-02-17 11:54:02	[Thread 47]	WARN	SimulationEvaluationHte	fun	There were 525 NAs produced for seed: 71692
+2021-02-17 11:54:03	[Thread 45]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:54:04	[Thread 19]	WARN	SimulationEvaluationHte	fun	There were 340 NAs produced for seed: 99750
+2021-02-17 11:54:04	[Thread 36]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:54:05	[Thread 45]	WARN	SimulationEvaluationHte	fun	Run failed for seed:35760
+2021-02-17 11:54:05	[Thread 4]	WARN	SimulationEvaluationHte	fun	There were 211 NAs produced for seed: 54518
+2021-02-17 11:54:06	[Thread 36]	WARN	SimulationEvaluationHte	fun	Run failed for seed:53410
+2021-02-17 11:54:06	[Thread 2]	WARN	SimulationEvaluationHte	fun	There were 558 NAs produced for seed: 83269
+2021-02-17 11:54:07	[Thread 30]	WARN	SimulationEvaluationHte	fun	There were 1323 NAs produced for seed: 63708
+2021-02-17 11:54:16	[Thread 26]	WARN	SimulationEvaluationHte	fun	There were 888 NAs produced for seed: 18999
+2021-02-17 11:54:16	[Thread 24]	WARN	SimulationEvaluationHte	fun	There were 804 NAs produced for seed: 34378
+2021-02-17 11:54:19	[Thread 10]	WARN	SimulationEvaluationHte	fun	There were 494 NAs produced for seed: 39644
+2021-02-17 11:54:19	[Thread 17]	WARN	SimulationEvaluationHte	fun	There were 359 NAs produced for seed: 43890
+2021-02-17 11:54:20	[Thread 33]	WARN	SimulationEvaluationHte	fun	There were 973 NAs produced for seed: 67043
+2021-02-17 11:54:24	[Thread 1]	WARN	SimulationEvaluationHte	fun	There were 271 NAs produced for seed: 2759
+2021-02-17 11:54:25	[Thread 9]	WARN	SimulationEvaluationHte	fun	There were 234 NAs produced for seed: 71360
+2021-02-17 11:54:26	[Thread 6]	WARN	SimulationEvaluationHte	fun	There were 273 NAs produced for seed: 65686
+2021-02-17 11:54:31	[Thread 8]	WARN	SimulationEvaluationHte	fun	There were 884 NAs produced for seed: 68762
+2021-02-17 11:54:32	[Thread 43]	WARN	SimulationEvaluationHte	fun	There were 701 NAs produced for seed: 23520
+2021-02-17 11:54:36	[Thread 18]	WARN	SimulationEvaluationHte	fun	There were 1344 NAs produced for seed: 10547
+2021-02-17 11:54:36	[Thread 21]	WARN	SimulationEvaluationHte	fun	There were 238 NAs produced for seed: 57087
+2021-02-17 11:54:36	[Thread 28]	WARN	SimulationEvaluationHte	fun	There were 317 NAs produced for seed: 63814
+2021-02-17 11:54:36	[Thread 14]	WARN	SimulationEvaluationHte	fun	There were 504 NAs produced for seed: 8947
+2021-02-17 11:54:38	[Thread 38]	WARN	SimulationEvaluationHte	fun	There were 223 NAs produced for seed: 16324
+2021-02-17 11:54:38	[Thread 5]	WARN	SimulationEvaluationHte	fun	There were 901 NAs produced for seed: 72326
+2021-02-17 11:54:42	[Thread 15]	WARN	SimulationEvaluationHte	fun	There were 712 NAs produced for seed: 64717
+2021-02-17 11:54:45	[Thread 34]	WARN	SimulationEvaluationHte	fun	There were 412 NAs produced for seed: 64986
+2021-02-17 11:54:46	[Thread 40]	WARN	SimulationEvaluationHte	fun	There were 1274 NAs produced for seed: 76765
+2021-02-17 11:54:47	[Thread 49]	WARN	SimulationEvaluationHte	fun	There were 208 NAs produced for seed: 94790
+2021-02-17 11:54:48	[Thread 16]	WARN	SimulationEvaluationHte	fun	There were 423 NAs produced for seed: 549
+2021-02-17 11:54:50	[Thread 29]	WARN	SimulationEvaluationHte	fun	There were 262 NAs produced for seed: 94290
+2021-02-17 11:54:50	[Thread 50]	WARN	SimulationEvaluationHte	fun	There were 652 NAs produced for seed: 35658
+2021-02-17 11:54:52	[Thread 11]	WARN	SimulationEvaluationHte	fun	There were 675 NAs produced for seed: 53176
+2021-02-17 11:54:52	[Thread 32]	WARN	SimulationEvaluationHte	fun	There were 931 NAs produced for seed: 6046
+2021-02-17 11:54:53	[Thread 34]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:54:53	[Thread 37]	WARN	SimulationEvaluationHte	fun	There were 1244 NAs produced for seed: 2900
+2021-02-17 11:54:54	[Thread 49]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:54:55	[Thread 34]	WARN	SimulationEvaluationHte	fun	Run failed for seed:64986
+2021-02-17 11:54:56	[Thread 46]	WARN	SimulationEvaluationHte	fun	There were 324 NAs produced for seed: 70246
+2021-02-17 11:54:57	[Thread 49]	WARN	SimulationEvaluationHte	fun	Run failed for seed:94790
+2021-02-17 11:55:00	[Thread 23]	WARN	SimulationEvaluationHte	fun	There were 1172 NAs produced for seed: 54929
+2021-02-17 11:55:03	[Thread 27]	WARN	SimulationEvaluationHte	fun	There were 888 NAs produced for seed: 29860
+2021-02-17 11:55:03	[Thread 7]	WARN	SimulationEvaluationHte	fun	There were 612 NAs produced for seed: 75995
+2021-02-17 11:55:04	[Thread 44]	WARN	SimulationEvaluationHte	fun	There were 825 NAs produced for seed: 49434
+2021-02-17 11:55:06	[Thread 41]	WARN	SimulationEvaluationHte	fun	There were 487 NAs produced for seed: 21169
+2021-02-17 11:55:07	[Thread 36]	WARN	SimulationEvaluationHte	fun	There were 772 NAs produced for seed: 84240
+2021-02-17 11:55:08	[Thread 45]	WARN	SimulationEvaluationHte	fun	There were 611 NAs produced for seed: 44093
+2021-02-17 11:55:10	[Thread 27]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:55:11	[Thread 42]	WARN	SimulationEvaluationHte	fun	There were 562 NAs produced for seed: 49020
+2021-02-17 11:55:11	[Thread 27]	WARN	SimulationEvaluationHte	fun	Run failed for seed:29860
+2021-02-17 11:55:13	[Thread 25]	WARN	SimulationEvaluationHte	fun	There were 651 NAs produced for seed: 81091
+2021-02-17 11:55:13	[Thread 39]	WARN	SimulationEvaluationHte	fun	There were 522 NAs produced for seed: 21194
+2021-02-17 11:55:16	[Thread 22]	WARN	SimulationEvaluationHte	fun	There were 779 NAs produced for seed: 66406
+2021-02-17 11:55:17	[Thread 48]	WARN	SimulationEvaluationHte	fun	There were 1053 NAs produced for seed: 25849
+2021-02-17 11:55:17	[Thread 3]	WARN	SimulationEvaluationHte	fun	There were 594 NAs produced for seed: 34242
+2021-02-17 11:55:18	[Thread 20]	WARN	SimulationEvaluationHte	fun	There were 1030 NAs produced for seed: 55403
+2021-02-17 11:55:20	[Thread 13]	WARN	SimulationEvaluationHte	fun	There were 516 NAs produced for seed: 6235
+2021-02-17 11:55:22	[Thread 12]	WARN	SimulationEvaluationHte	fun	There were 472 NAs produced for seed: 49949
+2021-02-17 11:55:25	[Thread 35]	WARN	SimulationEvaluationHte	fun	There were 166 NAs produced for seed: 41614
+2021-02-17 11:55:29	[Thread 31]	WARN	SimulationEvaluationHte	fun	There were 1064 NAs produced for seed: 64839
+2021-02-17 11:55:30	[Thread 47]	WARN	SimulationEvaluationHte	fun	There were 345 NAs produced for seed: 7903
+2021-02-17 11:55:33	[Thread 2]	WARN	SimulationEvaluationHte	fun	There were 893 NAs produced for seed: 98302
+2021-02-17 11:55:33	[Thread 4]	WARN	SimulationEvaluationHte	fun	There were 503 NAs produced for seed: 72147
+2021-02-17 11:55:37	[Thread 19]	WARN	SimulationEvaluationHte	fun	There were 546 NAs produced for seed: 82538
+2021-02-17 11:55:38	[Thread 30]	WARN	SimulationEvaluationHte	fun	There were 499 NAs produced for seed: 77288
+2021-02-17 11:55:41	[Thread 4]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:55:44	[Thread 4]	WARN	SimulationEvaluationHte	fun	Run failed for seed:72147
+2021-02-17 11:55:44	[Thread 24]	WARN	SimulationEvaluationHte	fun	There were 409 NAs produced for seed: 26966
+2021-02-17 11:55:45	[Thread 26]	WARN	SimulationEvaluationHte	fun	There were 1343 NAs produced for seed: 48142
+2021-02-17 11:55:47	[Thread 10]	WARN	SimulationEvaluationHte	fun	There were 411 NAs produced for seed: 98460
+2021-02-17 11:55:47	[Thread 17]	WARN	SimulationEvaluationHte	fun	There were 833 NAs produced for seed: 51000
+2021-02-17 11:55:54	[Thread 10]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:55:55	[Thread 34]	WARN	SimulationEvaluationHte	fun	There were 406 NAs produced for seed: 46412
+2021-02-17 11:55:55	[Thread 33]	WARN	SimulationEvaluationHte	fun	There were 811 NAs produced for seed: 71851
+2021-02-17 11:55:56	[Thread 10]	WARN	SimulationEvaluationHte	fun	Run failed for seed:98460
+2021-02-17 11:55:58	[Thread 6]	WARN	SimulationEvaluationHte	fun	There were 270 NAs produced for seed: 31705
+2021-02-17 11:56:00	[Thread 1]	WARN	SimulationEvaluationHte	fun	There were 636 NAs produced for seed: 99516
+2021-02-17 11:56:00	[Thread 49]	WARN	SimulationEvaluationHte	fun	There were 838 NAs produced for seed: 94507
+2021-02-17 11:56:01	[Thread 9]	WARN	SimulationEvaluationHte	fun	There were 522 NAs produced for seed: 85923
+2021-02-17 11:56:02	[Thread 8]	WARN	SimulationEvaluationHte	fun	There were 1080 NAs produced for seed: 73732
+2021-02-17 11:56:03	[Thread 43]	WARN	SimulationEvaluationHte	fun	There were 382 NAs produced for seed: 70141
+2021-02-17 11:56:04	[Thread 5]	WARN	SimulationEvaluationHte	fun	There were 740 NAs produced for seed: 80853
+2021-02-17 11:56:05	[Thread 21]	WARN	SimulationEvaluationHte	fun	There were 542 NAs produced for seed: 71717
+2021-02-17 11:56:06	[Thread 18]	WARN	SimulationEvaluationHte	fun	There were 521 NAs produced for seed: 93522
+2021-02-17 11:56:08	[Thread 49]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:56:08	[Thread 28]	WARN	SimulationEvaluationHte	fun	There were 824 NAs produced for seed: 59825
+2021-02-17 11:56:10	[Thread 49]	WARN	SimulationEvaluationHte	fun	Run failed for seed:94507
+2021-02-17 11:56:10	[Thread 27]	WARN	SimulationEvaluationHte	fun	There were 679 NAs produced for seed: 48041
+2021-02-17 11:56:10	[Thread 14]	WARN	SimulationEvaluationHte	fun	There were 295 NAs produced for seed: 99059
+2021-02-17 11:56:11	[Thread 40]	WARN	SimulationEvaluationHte	fun	There were 712 NAs produced for seed: 98308
+2021-02-17 11:56:12	[Thread 38]	WARN	SimulationEvaluationHte	fun	There were 251 NAs produced for seed: 93681
+2021-02-17 11:56:13	[Thread 15]	WARN	SimulationEvaluationHte	fun	There were 378 NAs produced for seed: 20016
+2021-02-17 11:56:16	[Thread 28]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:56:17	[Thread 28]	WARN	SimulationEvaluationHte	fun	Run failed for seed:59825
+2021-02-17 11:56:18	[Thread 37]	WARN	SimulationEvaluationHte	fun	There were 211 NAs produced for seed: 20379
+2021-02-17 11:56:19	[Thread 50]	WARN	SimulationEvaluationHte	fun	There were 738 NAs produced for seed: 67708
+2021-02-17 11:56:19	[Thread 32]	WARN	SimulationEvaluationHte	fun	There were 483 NAs produced for seed: 61961
+2021-02-17 11:56:20	[Thread 29]	WARN	SimulationEvaluationHte	fun	There were 565 NAs produced for seed: 16972
+2021-02-17 11:56:20	[Thread 11]	WARN	SimulationEvaluationHte	fun	There were 907 NAs produced for seed: 68373
+2021-02-17 11:56:24	[Thread 16]	WARN	SimulationEvaluationHte	fun	There were 350 NAs produced for seed: 7577
+2021-02-17 11:56:25	[Thread 23]	WARN	SimulationEvaluationHte	fun	There were 2212 NAs produced for seed: 25589
+2021-02-17 11:56:28	[Thread 46]	WARN	SimulationEvaluationHte	fun	There were 1110 NAs produced for seed: 98207
+2021-02-17 11:56:28	[Thread 7]	WARN	SimulationEvaluationHte	fun	There were 1227 NAs produced for seed: 78792
+2021-02-17 11:56:33	[Thread 16]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:56:35	[Thread 16]	WARN	SimulationEvaluationHte	fun	Run failed for seed:7577
+2021-02-17 11:56:36	[Thread 36]	WARN	SimulationEvaluationHte	fun	There were 532 NAs produced for seed: 18044
+2021-02-17 11:56:37	[Thread 44]	WARN	SimulationEvaluationHte	fun	There were 814 NAs produced for seed: 58122
+2021-02-17 11:56:38	[Thread 45]	WARN	SimulationEvaluationHte	fun	There were 607 NAs produced for seed: 41811
+2021-02-17 11:56:42	[Thread 41]	WARN	SimulationEvaluationHte	fun	There were 699 NAs produced for seed: 62042
+2021-02-17 11:56:43	[Thread 39]	WARN	SimulationEvaluationHte	fun	There were 598 NAs produced for seed: 81677
+2021-02-17 11:56:44	[Thread 25]	WARN	SimulationEvaluationHte	fun	There were 418 NAs produced for seed: 25324
+2021-02-17 11:56:44	[Thread 22]	WARN	SimulationEvaluationHte	fun	There were 493 NAs produced for seed: 58260
+2021-02-17 11:56:45	[Thread 44]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:56:45	[Thread 3]	WARN	SimulationEvaluationHte	fun	There were 420 NAs produced for seed: 21690
+2021-02-17 11:56:46	[Thread 20]	WARN	SimulationEvaluationHte	fun	There were 391 NAs produced for seed: 88187
+2021-02-17 11:56:46	[Thread 4]	WARN	SimulationEvaluationHte	fun	There were 1210 NAs produced for seed: 29321
+2021-02-17 11:56:47	[Thread 44]	WARN	SimulationEvaluationHte	fun	Run failed for seed:58122
+2021-02-17 11:56:49	[Thread 12]	WARN	SimulationEvaluationHte	fun	There were 899 NAs produced for seed: 72056
+2021-02-17 11:56:50	[Thread 42]	WARN	SimulationEvaluationHte	fun	There were 1144 NAs produced for seed: 76797
+2021-02-17 11:56:52	[Thread 25]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:56:53	[Thread 35]	WARN	SimulationEvaluationHte	fun	There were 418 NAs produced for seed: 97744
+2021-02-17 11:56:53	[Thread 13]	WARN	SimulationEvaluationHte	fun	There were 581 NAs produced for seed: 66380
+2021-02-17 11:56:53	[Thread 25]	WARN	SimulationEvaluationHte	fun	Run failed for seed:25324
+2021-02-17 11:56:54	[Thread 10]	WARN	SimulationEvaluationHte	fun	There were 590 NAs produced for seed: 44783
+2021-02-17 11:56:55	[Thread 31]	WARN	SimulationEvaluationHte	fun	There were 346 NAs produced for seed: 61354
+2021-02-17 11:56:57	[Thread 48]	WARN	SimulationEvaluationHte	fun	There were 187 NAs produced for seed: 89058
+2021-02-17 11:56:57	[Thread 47]	WARN	SimulationEvaluationHte	fun	There were 894 NAs produced for seed: 68866
+2021-02-17 11:57:00	[Thread 35]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:57:00	[Thread 13]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:57:02	[Thread 35]	WARN	SimulationEvaluationHte	fun	Run failed for seed:97744
+2021-02-17 11:57:03	[Thread 2]	WARN	SimulationEvaluationHte	fun	There were 883 NAs produced for seed: 59467
+2021-02-17 11:57:04	[Thread 13]	WARN	SimulationEvaluationHte	fun	Run failed for seed:66380
+2021-02-17 11:57:06	[Thread 48]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:57:06	[Thread 30]	WARN	SimulationEvaluationHte	fun	There were 618 NAs produced for seed: 19784
+2021-02-17 11:57:08	[Thread 48]	WARN	SimulationEvaluationHte	fun	Run failed for seed:89058
+2021-02-17 11:57:08	[Thread 24]	WARN	SimulationEvaluationHte	fun	There were 846 NAs produced for seed: 29780
+2021-02-17 11:57:09	[Thread 19]	WARN	SimulationEvaluationHte	fun	There were 438 NAs produced for seed: 57925
+2021-02-17 11:57:11	[Thread 49]	WARN	SimulationEvaluationHte	fun	There were 768 NAs produced for seed: 44616
+2021-02-17 11:57:13	[Thread 17]	WARN	SimulationEvaluationHte	fun	There were 421 NAs produced for seed: 20984
+2021-02-17 11:57:16	[Thread 26]	WARN	SimulationEvaluationHte	fun	There were 339 NAs produced for seed: 88679
+2021-02-17 11:57:22	[Thread 28]	WARN	SimulationEvaluationHte	fun	There were 294 NAs produced for seed: 77158
+2021-02-17 11:57:25	[Thread 34]	WARN	SimulationEvaluationHte	fun	There were 238 NAs produced for seed: 81071
+2021-02-17 11:57:27	[Thread 33]	WARN	SimulationEvaluationHte	fun	There were 664 NAs produced for seed: 7705
+2021-02-17 11:57:27	[Thread 5]	WARN	SimulationEvaluationHte	fun	There were 263 NAs produced for seed: 88069
+2021-02-17 11:57:28	[Thread 6]	WARN	SimulationEvaluationHte	fun	There were 725 NAs produced for seed: 40061
+2021-02-17 11:57:29	[Thread 8]	WARN	SimulationEvaluationHte	fun	There were 859 NAs produced for seed: 19977
+2021-02-17 11:57:32	[Thread 9]	WARN	SimulationEvaluationHte	fun	There were 772 NAs produced for seed: 39686
+2021-02-17 11:57:36	[Thread 16]	WARN	SimulationEvaluationHte	fun	There were 714 NAs produced for seed: 28084
+2021-02-17 11:57:38	[Thread 1]	WARN	SimulationEvaluationHte	fun	There were 792 NAs produced for seed: 99232
+2021-02-17 11:57:39	[Thread 21]	WARN	SimulationEvaluationHte	fun	There were 401 NAs produced for seed: 780
+2021-02-17 11:57:39	[Thread 27]	WARN	SimulationEvaluationHte	fun	There were 689 NAs produced for seed: 49833
+2021-02-17 11:57:39	[Thread 43]	WARN	SimulationEvaluationHte	fun	There were 431 NAs produced for seed: 63873
+2021-02-17 11:57:39	[Thread 40]	WARN	SimulationEvaluationHte	fun	There were 248 NAs produced for seed: 88867
+2021-02-17 11:57:39	[Thread 9]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:57:40	[Thread 18]	WARN	SimulationEvaluationHte	fun	There were 1180 NAs produced for seed: 12135
+2021-02-17 11:57:40	[Thread 37]	WARN	SimulationEvaluationHte	fun	There were 1344 NAs produced for seed: 32703
+2021-02-17 11:57:42	[Thread 9]	WARN	SimulationEvaluationHte	fun	Run failed for seed:39686
+2021-02-17 11:57:44	[Thread 44]	WARN	SimulationEvaluationHte	fun	There were 769 NAs produced for seed: 63856
+2021-02-17 11:57:45	[Thread 32]	WARN	SimulationEvaluationHte	fun	There were 571 NAs produced for seed: 74377
+2021-02-17 11:57:45	[Thread 38]	WARN	SimulationEvaluationHte	fun	There were 623 NAs produced for seed: 6972
+2021-02-17 11:57:47	[Thread 15]	WARN	SimulationEvaluationHte	fun	There were 1384 NAs produced for seed: 25442
+2021-02-17 11:57:48	[Thread 14]	WARN	SimulationEvaluationHte	fun	There were 339 NAs produced for seed: 41827
+2021-02-17 11:57:49	[Thread 23]	WARN	SimulationEvaluationHte	fun	There were 602 NAs produced for seed: 78549
+2021-02-17 11:57:50	[Thread 29]	WARN	SimulationEvaluationHte	fun	There were 262 NAs produced for seed: 83256
+2021-02-17 11:57:51	[Thread 50]	WARN	SimulationEvaluationHte	fun	There were 422 NAs produced for seed: 31689
+2021-02-17 11:57:52	[Thread 11]	WARN	SimulationEvaluationHte	fun	There were 684 NAs produced for seed: 20287
+2021-02-17 11:57:54	[Thread 25]	WARN	SimulationEvaluationHte	fun	There were 698 NAs produced for seed: 62252
+2021-02-17 11:57:57	[Thread 23]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:57:57	[Thread 46]	WARN	SimulationEvaluationHte	fun	There were 531 NAs produced for seed: 33271
+2021-02-17 11:57:58	[Thread 23]	WARN	SimulationEvaluationHte	fun	Run failed for seed:78549
+2021-02-17 11:57:59	[Thread 7]	WARN	SimulationEvaluationHte	fun	There were 1343 NAs produced for seed: 40282
+2021-02-17 11:58:03	[Thread 25]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:58:03	[Thread 35]	WARN	SimulationEvaluationHte	fun	There were 1127 NAs produced for seed: 41839
+2021-02-17 11:58:05	[Thread 25]	WARN	SimulationEvaluationHte	fun	Run failed for seed:62252
+2021-02-17 11:58:06	[Thread 13]	WARN	SimulationEvaluationHte	fun	There were 429 NAs produced for seed: 53420
+2021-02-17 11:58:07	[Thread 45]	WARN	SimulationEvaluationHte	fun	There were 1016 NAs produced for seed: 3789
+2021-02-17 11:58:08	[Thread 36]	WARN	SimulationEvaluationHte	fun	There were 443 NAs produced for seed: 80992
+2021-02-17 11:58:10	[Thread 39]	WARN	SimulationEvaluationHte	fun	There were 557 NAs produced for seed: 62453
+2021-02-17 11:58:12	[Thread 48]	WARN	SimulationEvaluationHte	fun	There were 572 NAs produced for seed: 97519
+2021-02-17 11:58:12	[Thread 22]	WARN	SimulationEvaluationHte	fun	There were 258 NAs produced for seed: 35449
+2021-02-17 11:58:14	[Thread 13]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:58:14	[Thread 12]	WARN	SimulationEvaluationHte	fun	There were 802 NAs produced for seed: 76248
+2021-02-17 11:58:15	[Thread 3]	WARN	SimulationEvaluationHte	fun	There were 596 NAs produced for seed: 77804
+2021-02-17 11:58:15	[Thread 41]	WARN	SimulationEvaluationHte	fun	There were 971 NAs produced for seed: 40672
+2021-02-17 11:58:15	[Thread 4]	WARN	SimulationEvaluationHte	fun	There were 384 NAs produced for seed: 1533
+2021-02-17 11:58:17	[Thread 13]	WARN	SimulationEvaluationHte	fun	Run failed for seed:53420
+2021-02-17 11:58:17	[Thread 20]	WARN	SimulationEvaluationHte	fun	There were 503 NAs produced for seed: 85278
+2021-02-17 11:58:22	[Thread 10]	WARN	SimulationEvaluationHte	fun	There were 753 NAs produced for seed: 36
+2021-02-17 11:58:22	[Thread 41]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:58:23	[Thread 4]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:58:24	[Thread 47]	WARN	SimulationEvaluationHte	fun	There were 745 NAs produced for seed: 52465
+2021-02-17 11:58:24	[Thread 31]	WARN	SimulationEvaluationHte	fun	There were 662 NAs produced for seed: 19614
+2021-02-17 11:58:24	[Thread 41]	WARN	SimulationEvaluationHte	fun	Run failed for seed:40672
+2021-02-17 11:58:25	[Thread 4]	WARN	SimulationEvaluationHte	fun	Run failed for seed:1533
+2021-02-17 11:58:26	[Thread 42]	WARN	SimulationEvaluationHte	fun	There were 133 NAs produced for seed: 50526
+2021-02-17 11:58:28	[Thread 2]	WARN	SimulationEvaluationHte	fun	There were 241 NAs produced for seed: 16746
+2021-02-17 11:58:29	[Thread 10]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:58:31	[Thread 10]	WARN	SimulationEvaluationHte	fun	Run failed for seed:36
+2021-02-17 11:58:36	[Thread 30]	WARN	SimulationEvaluationHte	fun	There were 755 NAs produced for seed: 93443
+2021-02-17 11:58:39	[Thread 9]	WARN	SimulationEvaluationHte	fun	There were 732 NAs produced for seed: 48244
+2021-02-17 11:58:40	[Thread 24]	WARN	SimulationEvaluationHte	fun	There were 218 NAs produced for seed: 8538
+2021-02-17 11:58:40	[Thread 49]	WARN	SimulationEvaluationHte	fun	There were 923 NAs produced for seed: 86540
+2021-02-17 11:58:42	[Thread 17]	WARN	SimulationEvaluationHte	fun	There were 140 NAs produced for seed: 53354
+2021-02-17 11:58:42	[Thread 19]	WARN	SimulationEvaluationHte	fun	There were 342 NAs produced for seed: 48980
+2021-02-17 11:58:45	[Thread 26]	WARN	SimulationEvaluationHte	fun	There were 932 NAs produced for seed: 11791
+2021-02-17 11:58:50	[Thread 28]	WARN	SimulationEvaluationHte	fun	There were 430 NAs produced for seed: 8926
+2021-02-17 11:58:50	[Thread 17]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:58:52	[Thread 17]	WARN	SimulationEvaluationHte	fun	Run failed for seed:53354
+2021-02-17 11:58:56	[Thread 5]	WARN	SimulationEvaluationHte	fun	There were 483 NAs produced for seed: 64244
+2021-02-17 11:58:57	[Thread 33]	WARN	SimulationEvaluationHte	fun	There were 247 NAs produced for seed: 15620
+2021-02-17 11:58:57	[Thread 23]	WARN	SimulationEvaluationHte	fun	There were 361 NAs produced for seed: 47258
+2021-02-17 11:58:58	[Thread 34]	WARN	SimulationEvaluationHte	fun	There were 927 NAs produced for seed: 86328
+2021-02-17 11:59:01	[Thread 37]	WARN	SimulationEvaluationHte	fun	There were 852 NAs produced for seed: 14971
+2021-02-17 11:59:02	[Thread 8]	WARN	SimulationEvaluationHte	fun	There were 364 NAs produced for seed: 38937
+2021-02-17 11:59:04	[Thread 6]	WARN	SimulationEvaluationHte	fun	There were 624 NAs produced for seed: 34735
+2021-02-17 11:59:05	[Thread 25]	WARN	SimulationEvaluationHte	fun	There were 1230 NAs produced for seed: 66791
+2021-02-17 11:59:05	[Thread 33]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:59:05	[Thread 16]	WARN	SimulationEvaluationHte	fun	There were 1077 NAs produced for seed: 26744
+2021-02-17 11:59:06	[Thread 33]	WARN	SimulationEvaluationHte	fun	Run failed for seed:15620
+2021-02-17 11:59:09	[Thread 8]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:59:11	[Thread 21]	WARN	SimulationEvaluationHte	fun	There were 1029 NAs produced for seed: 38825
+2021-02-17 11:59:12	[Thread 8]	WARN	SimulationEvaluationHte	fun	Run failed for seed:38937
+2021-02-17 11:59:12	[Thread 44]	WARN	SimulationEvaluationHte	fun	There were 240 NAs produced for seed: 34430
+2021-02-17 11:59:12	[Thread 18]	WARN	SimulationEvaluationHte	fun	There were 690 NAs produced for seed: 58861
+2021-02-17 11:59:13	[Thread 40]	WARN	SimulationEvaluationHte	fun	There were 902 NAs produced for seed: 35912
+2021-02-17 11:59:13	[Thread 16]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:59:14	[Thread 27]	WARN	SimulationEvaluationHte	fun	There were 702 NAs produced for seed: 19954
+2021-02-17 11:59:14	[Thread 16]	WARN	SimulationEvaluationHte	fun	Run failed for seed:26744
+2021-02-17 11:59:15	[Thread 1]	WARN	SimulationEvaluationHte	fun	There were 214 NAs produced for seed: 51194
+2021-02-17 11:59:17	[Thread 32]	WARN	SimulationEvaluationHte	fun	There were 207 NAs produced for seed: 68789
+2021-02-17 11:59:17	[Thread 43]	WARN	SimulationEvaluationHte	fun	There were 554 NAs produced for seed: 31977
+2021-02-17 11:59:18	[Thread 38]	WARN	SimulationEvaluationHte	fun	There were 553 NAs produced for seed: 86473
+2021-02-17 11:59:18	[Thread 21]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:59:20	[Thread 21]	WARN	SimulationEvaluationHte	fun	Run failed for seed:38825
+2021-02-17 11:59:21	[Thread 13]	WARN	SimulationEvaluationHte	fun	There were 1243 NAs produced for seed: 322
+2021-02-17 11:59:21	[Thread 27]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:59:22	[Thread 14]	WARN	SimulationEvaluationHte	fun	There were 805 NAs produced for seed: 66904
+2021-02-17 11:59:23	[Thread 41]	WARN	SimulationEvaluationHte	fun	There were 835 NAs produced for seed: 48430
+2021-02-17 11:59:23	[Thread 1]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:59:23	[Thread 27]	WARN	SimulationEvaluationHte	fun	Run failed for seed:19954
+2021-02-17 11:59:24	[Thread 11]	WARN	SimulationEvaluationHte	fun	There were 691 NAs produced for seed: 89181
+2021-02-17 11:59:24	[Thread 29]	WARN	SimulationEvaluationHte	fun	There were 422 NAs produced for seed: 19083
+2021-02-17 11:59:25	[Thread 4]	WARN	SimulationEvaluationHte	fun	There were 1195 NAs produced for seed: 82729
+2021-02-17 11:59:25	[Thread 1]	WARN	SimulationEvaluationHte	fun	Run failed for seed:51194
+2021-02-17 11:59:26	[Thread 50]	WARN	SimulationEvaluationHte	fun	There were 934 NAs produced for seed: 16328
+2021-02-17 11:59:26	[Thread 15]	WARN	SimulationEvaluationHte	fun	There were 480 NAs produced for seed: 76978
+2021-02-17 11:59:26	[Thread 43]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:59:27	[Thread 7]	WARN	SimulationEvaluationHte	fun	There were 966 NAs produced for seed: 98744
+2021-02-17 11:59:28	[Thread 43]	WARN	SimulationEvaluationHte	fun	Run failed for seed:31977
+2021-02-17 11:59:29	[Thread 46]	WARN	SimulationEvaluationHte	fun	There were 1544 NAs produced for seed: 47572
+2021-02-17 11:59:32	[Thread 35]	WARN	SimulationEvaluationHte	fun	There were 253 NAs produced for seed: 12317
+2021-02-17 11:59:34	[Thread 10]	WARN	SimulationEvaluationHte	fun	There were 800 NAs produced for seed: 59851
+2021-02-17 11:59:34	[Thread 15]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 11:59:35	[Thread 39]	WARN	SimulationEvaluationHte	fun	There were 379 NAs produced for seed: 16530
+2021-02-17 11:59:35	[Thread 45]	WARN	SimulationEvaluationHte	fun	There were 1324 NAs produced for seed: 44060
+2021-02-17 11:59:36	[Thread 15]	WARN	SimulationEvaluationHte	fun	Run failed for seed:76978
+2021-02-17 11:59:36	[Thread 22]	WARN	SimulationEvaluationHte	fun	There were 569 NAs produced for seed: 15042
+2021-02-17 11:59:40	[Thread 3]	WARN	SimulationEvaluationHte	fun	There were 509 NAs produced for seed: 96157
+2021-02-17 11:59:41	[Thread 12]	WARN	SimulationEvaluationHte	fun	There were 1479 NAs produced for seed: 28435
+2021-02-17 11:59:44	[Thread 48]	WARN	SimulationEvaluationHte	fun	There were 254 NAs produced for seed: 46330
+2021-02-17 11:59:46	[Thread 36]	WARN	SimulationEvaluationHte	fun	There were 702 NAs produced for seed: 2318
+2021-02-17 11:59:48	[Thread 47]	WARN	SimulationEvaluationHte	fun	There were 237 NAs produced for seed: 38566
+2021-02-17 11:59:50	[Thread 31]	WARN	SimulationEvaluationHte	fun	There were 940 NAs produced for seed: 83575
+2021-02-17 11:59:52	[Thread 20]	WARN	SimulationEvaluationHte	fun	There were 1018 NAs produced for seed: 44054
+2021-02-17 11:59:57	[Thread 2]	WARN	SimulationEvaluationHte	fun	There were 811 NAs produced for seed: 75781
+2021-02-17 11:59:59	[Thread 42]	WARN	SimulationEvaluationHte	fun	There were 481 NAs produced for seed: 60387
+2021-02-17 11:59:59	[Thread 17]	WARN	SimulationEvaluationHte	fun	There were 329 NAs produced for seed: 21283
+2021-02-17 12:00:00	[Thread 20]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 12:00:01	[Thread 30]	WARN	SimulationEvaluationHte	fun	There were 659 NAs produced for seed: 88879
+2021-02-17 12:00:02	[Thread 20]	WARN	SimulationEvaluationHte	fun	Run failed for seed:44054
+2021-02-17 12:00:09	[Thread 33]	WARN	SimulationEvaluationHte	fun	There were 198 NAs produced for seed: 88665
+2021-02-17 12:00:12	[Thread 24]	WARN	SimulationEvaluationHte	fun	There were 499 NAs produced for seed: 4253
+2021-02-17 12:00:12	[Thread 9]	WARN	SimulationEvaluationHte	fun	There were 868 NAs produced for seed: 50179
+2021-02-17 12:00:12	[Thread 8]	WARN	SimulationEvaluationHte	fun	There were 459 NAs produced for seed: 50945
+2021-02-17 12:00:13	[Thread 49]	WARN	SimulationEvaluationHte	fun	There were 264 NAs produced for seed: 75383
+2021-02-17 12:00:14	[Thread 19]	WARN	SimulationEvaluationHte	fun	There were 444 NAs produced for seed: 4669
+2021-02-17 12:00:15	[Thread 21]	WARN	SimulationEvaluationHte	fun	There were 265 NAs produced for seed: 82984
+2021-02-17 12:00:17	[Thread 26]	WARN	SimulationEvaluationHte	fun	There were 180 NAs produced for seed: 39007
+2021-02-17 12:00:18	[Thread 16]	WARN	SimulationEvaluationHte	fun	There were 489 NAs produced for seed: 13842
+2021-02-17 12:00:20	[Thread 9]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 12:00:20	[Thread 49]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 12:00:22	[Thread 9]	WARN	SimulationEvaluationHte	fun	Run failed for seed:50179
+2021-02-17 12:00:22	[Thread 49]	WARN	SimulationEvaluationHte	fun	Run failed for seed:75383
+2021-02-17 12:00:22	[Thread 27]	WARN	SimulationEvaluationHte	fun	There were 869 NAs produced for seed: 80960
+2021-02-17 12:00:23	[Thread 28]	WARN	SimulationEvaluationHte	fun	There were 232 NAs produced for seed: 13438
+2021-02-17 12:00:23	[Thread 5]	WARN	SimulationEvaluationHte	fun	There were 444 NAs produced for seed: 52450
+2021-02-17 12:00:24	[Thread 34]	WARN	SimulationEvaluationHte	fun	There were 868 NAs produced for seed: 97290
+2021-02-17 12:00:25	[Thread 1]	WARN	SimulationEvaluationHte	fun	There were 1249 NAs produced for seed: 71547
+2021-02-17 12:00:26	[Thread 37]	WARN	SimulationEvaluationHte	fun	There were 712 NAs produced for seed: 67241
+2021-02-17 12:00:28	[Thread 23]	WARN	SimulationEvaluationHte	fun	There were 544 NAs produced for seed: 26698
+2021-02-17 12:00:30	[Thread 6]	WARN	SimulationEvaluationHte	fun	There were 445 NAs produced for seed: 13467
+2021-02-17 12:00:32	[Thread 43]	WARN	SimulationEvaluationHte	fun	There were 553 NAs produced for seed: 67731
+2021-02-17 12:00:32	[Thread 5]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 12:00:34	[Thread 5]	WARN	SimulationEvaluationHte	fun	Run failed for seed:52450
+2021-02-17 12:00:37	[Thread 44]	WARN	SimulationEvaluationHte	fun	There were 183 NAs produced for seed: 26042
+2021-02-17 12:00:37	[Thread 6]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 12:00:38	[Thread 25]	WARN	SimulationEvaluationHte	fun	There were 1076 NAs produced for seed: 11904
+2021-02-17 12:00:38	[Thread 40]	WARN	SimulationEvaluationHte	fun	There were 333 NAs produced for seed: 49465
+2021-02-17 12:00:39	[Thread 6]	WARN	SimulationEvaluationHte	fun	Run failed for seed:13467
+2021-02-17 12:00:40	[Thread 15]	WARN	SimulationEvaluationHte	fun	There were 711 NAs produced for seed: 75352
+2021-02-17 12:00:45	[Thread 18]	WARN	SimulationEvaluationHte	fun	There were 684 NAs produced for seed: 78766
+2021-02-17 12:00:46	[Thread 40]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 12:00:48	[Thread 40]	WARN	SimulationEvaluationHte	fun	Run failed for seed:49465
+2021-02-17 12:00:48	[Thread 15]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 12:00:50	[Thread 32]	WARN	SimulationEvaluationHte	fun	There were 410 NAs produced for seed: 77228
+2021-02-17 12:00:50	[Thread 11]	WARN	SimulationEvaluationHte	fun	There were 269 NAs produced for seed: 413
+2021-02-17 12:00:50	[Thread 38]	WARN	SimulationEvaluationHte	fun	There were 329 NAs produced for seed: 38950
+2021-02-17 12:00:50	[Thread 15]	WARN	SimulationEvaluationHte	fun	Run failed for seed:75352
+2021-02-17 12:00:52	[Thread 41]	WARN	SimulationEvaluationHte	fun	There were 483 NAs produced for seed: 52297
+2021-02-17 12:00:53	[Thread 4]	WARN	SimulationEvaluationHte	fun	There were 923 NAs produced for seed: 70249
+2021-02-17 12:00:55	[Thread 13]	WARN	SimulationEvaluationHte	fun	There were 923 NAs produced for seed: 80846
+2021-02-17 12:00:56	[Thread 14]	WARN	SimulationEvaluationHte	fun	There were 434 NAs produced for seed: 71145
+2021-02-17 12:00:56	[Thread 29]	WARN	SimulationEvaluationHte	fun	There were 988 NAs produced for seed: 49843
+2021-02-17 12:00:57	[Thread 7]	WARN	SimulationEvaluationHte	fun	There were 490 NAs produced for seed: 77829
+2021-02-17 12:00:59	[Thread 46]	WARN	SimulationEvaluationHte	fun	There were 1349 NAs produced for seed: 3392
+2021-02-17 12:00:59	[Thread 39]	WARN	SimulationEvaluationHte	fun	There were 867 NAs produced for seed: 6161
+2021-02-17 12:01:00	[Thread 50]	WARN	SimulationEvaluationHte	fun	There were 1048 NAs produced for seed: 14478
+2021-02-17 12:01:02	[Thread 20]	WARN	SimulationEvaluationHte	fun	There were 441 NAs produced for seed: 3631
+2021-02-17 12:01:04	[Thread 35]	WARN	SimulationEvaluationHte	fun	There were 566 NAs produced for seed: 1544
+2021-02-17 12:01:05	[Thread 3]	WARN	SimulationEvaluationHte	fun	There were 637 NAs produced for seed: 93999
+2021-02-17 12:01:05	[Thread 10]	WARN	SimulationEvaluationHte	fun	There were 498 NAs produced for seed: 50054
+2021-02-17 12:01:05	[Thread 45]	WARN	SimulationEvaluationHte	fun	There were 246 NAs produced for seed: 34630
+2021-02-17 12:01:06	[Thread 39]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 12:01:06	[Thread 46]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 12:01:07	[Thread 12]	WARN	SimulationEvaluationHte	fun	There were 1228 NAs produced for seed: 60094
+2021-02-17 12:01:08	[Thread 22]	WARN	SimulationEvaluationHte	fun	There were 1023 NAs produced for seed: 23956
+2021-02-17 12:01:08	[Thread 39]	WARN	SimulationEvaluationHte	fun	Run failed for seed:6161
+2021-02-17 12:01:09	[Thread 46]	WARN	SimulationEvaluationHte	fun	Run failed for seed:3392
+2021-02-17 12:01:15	[Thread 47]	WARN	SimulationEvaluationHte	fun	There were 483 NAs produced for seed: 70997
+2021-02-17 12:01:18	[Thread 36]	WARN	SimulationEvaluationHte	fun	There were 612 NAs produced for seed: 28005
+2021-02-17 12:01:18	[Thread 48]	WARN	SimulationEvaluationHte	fun	There were 866 NAs produced for seed: 38804
+2021-02-17 12:01:18	[Thread 31]	WARN	SimulationEvaluationHte	fun	There were 488 NAs produced for seed: 29781
+2021-02-17 12:01:22	[Thread 49]	WARN	SimulationEvaluationHte	fun	There were 508 NAs produced for seed: 90933
+2021-02-17 12:01:25	[Thread 9]	WARN	SimulationEvaluationHte	fun	There were 770 NAs produced for seed: 77702
+2021-02-17 12:01:29	[Thread 2]	WARN	SimulationEvaluationHte	fun	There were 483 NAs produced for seed: 63642
+2021-02-17 12:01:33	[Thread 5]	WARN	SimulationEvaluationHte	fun	There were 786 NAs produced for seed: 58558
+2021-02-17 12:01:36	[Thread 42]	WARN	SimulationEvaluationHte	fun	There were 1499 NAs produced for seed: 32939
+2021-02-17 12:01:36	[Thread 30]	WARN	SimulationEvaluationHte	fun	There were 515 NAs produced for seed: 53112
+2021-02-17 12:01:37	[Thread 17]	WARN	SimulationEvaluationHte	fun	There were 419 NAs produced for seed: 63154
+2021-02-17 12:01:40	[Thread 24]	WARN	SimulationEvaluationHte	fun	There were 819 NAs produced for seed: 63830
+2021-02-17 12:01:40	[Thread 21]	WARN	SimulationEvaluationHte	fun	There were 554 NAs produced for seed: 53952
+2021-02-17 12:01:41	[Thread 8]	WARN	SimulationEvaluationHte	fun	There were 580 NAs produced for seed: 27510
+2021-02-17 12:01:42	[Thread 33]	WARN	SimulationEvaluationHte	fun	There were 932 NAs produced for seed: 76326
+2021-02-17 12:01:43	[Thread 6]	WARN	SimulationEvaluationHte	fun	There were 665 NAs produced for seed: 1827
+2021-02-17 12:01:45	[Thread 40]	WARN	SimulationEvaluationHte	fun	There were 665 NAs produced for seed: 43779
+2021-02-17 12:01:47	[Thread 26]	WARN	SimulationEvaluationHte	fun	There were 220 NAs produced for seed: 86884
+2021-02-17 12:01:49	[Thread 16]	WARN	SimulationEvaluationHte	fun	There were 566 NAs produced for seed: 27827
+2021-02-17 12:01:50	[Thread 19]	WARN	SimulationEvaluationHte	fun	There were 710 NAs produced for seed: 65084
+2021-02-17 12:01:51	[Thread 33]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 12:01:51	[Thread 27]	WARN	SimulationEvaluationHte	fun	There were 764 NAs produced for seed: 80142
+2021-02-17 12:01:52	[Thread 33]	WARN	SimulationEvaluationHte	fun	Run failed for seed:76326
+2021-02-17 12:01:53	[Thread 6]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 12:01:54	[Thread 37]	WARN	SimulationEvaluationHte	fun	There were 622 NAs produced for seed: 47980
+2021-02-17 12:01:54	[Thread 34]	WARN	SimulationEvaluationHte	fun	There were 495 NAs produced for seed: 60205
+2021-02-17 12:01:54	[Thread 15]	WARN	SimulationEvaluationHte	fun	There were 298 NAs produced for seed: 99817
+2021-02-17 12:01:56	[Thread 6]	WARN	SimulationEvaluationHte	fun	Run failed for seed:1827
+2021-02-17 12:01:57	[Thread 27]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 12:01:59	[Thread 1]	WARN	SimulationEvaluationHte	fun	There were 956 NAs produced for seed: 66879
+2021-02-17 12:01:59	[Thread 23]	WARN	SimulationEvaluationHte	fun	There were 395 NAs produced for seed: 71156
+2021-02-17 12:02:00	[Thread 27]	WARN	SimulationEvaluationHte	fun	Run failed for seed:80142
+2021-02-17 12:02:02	[Thread 37]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 12:02:04	[Thread 37]	WARN	SimulationEvaluationHte	fun	Run failed for seed:47980
+2021-02-17 12:02:05	[Thread 28]	WARN	SimulationEvaluationHte	fun	There were 1082 NAs produced for seed: 90324
+2021-02-17 12:02:06	[Thread 44]	WARN	SimulationEvaluationHte	fun	There were 642 NAs produced for seed: 51756
+2021-02-17 12:02:06	[Thread 25]	WARN	SimulationEvaluationHte	fun	There were 442 NAs produced for seed: 71379
+2021-02-17 12:02:07	[Thread 23]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 12:02:07	[Thread 39]	WARN	SimulationEvaluationHte	fun	There were 620 NAs produced for seed: 71937
+2021-02-17 12:02:07	[Thread 43]	WARN	SimulationEvaluationHte	fun	There were 400 NAs produced for seed: 68849
+2021-02-17 12:02:09	[Thread 23]	WARN	SimulationEvaluationHte	fun	Run failed for seed:71156
+2021-02-17 12:02:12	[Thread 46]	WARN	SimulationEvaluationHte	fun	There were 394 NAs produced for seed: 17563
+2021-02-17 12:02:16	[Thread 32]	WARN	SimulationEvaluationHte	fun	There were 344 NAs produced for seed: 21473
+2021-02-17 12:02:16	[Thread 11]	WARN	SimulationEvaluationHte	fun	There were 552 NAs produced for seed: 1085
+2021-02-17 12:02:16	[Thread 18]	WARN	SimulationEvaluationHte	fun	There were 406 NAs produced for seed: 59228
+2021-02-17 12:02:19	[Thread 46]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 12:02:21	[Thread 46]	WARN	SimulationEvaluationHte	fun	Run failed for seed:17563
+2021-02-17 12:02:22	[Thread 13]	WARN	SimulationEvaluationHte	fun	There were 283 NAs produced for seed: 36596
+2021-02-17 12:02:23	[Thread 38]	WARN	SimulationEvaluationHte	fun	There were 604 NAs produced for seed: 67646
+2021-02-17 12:02:23	[Thread 4]	WARN	SimulationEvaluationHte	fun	There were 302 NAs produced for seed: 10205
+2021-02-17 12:02:23	[Thread 32]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 12:02:25	[Thread 29]	WARN	SimulationEvaluationHte	fun	There were 643 NAs produced for seed: 58555
+2021-02-17 12:02:25	[Thread 32]	WARN	SimulationEvaluationHte	fun	Run failed for seed:21473
+2021-02-17 12:02:26	[Thread 41]	WARN	SimulationEvaluationHte	fun	There were 349 NAs produced for seed: 27178
+2021-02-17 12:02:27	[Thread 7]	WARN	SimulationEvaluationHte	fun	There were 666 NAs produced for seed: 25990
+2021-02-17 12:02:29	[Thread 3]	WARN	SimulationEvaluationHte	fun	There were 563 NAs produced for seed: 19984
+2021-02-17 12:02:29	[Thread 13]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 12:02:30	[Thread 14]	WARN	SimulationEvaluationHte	fun	There were 442 NAs produced for seed: 89929
+2021-02-17 12:02:31	[Thread 13]	WARN	SimulationEvaluationHte	fun	Run failed for seed:36596
+2021-02-17 12:02:31	[Thread 50]	WARN	SimulationEvaluationHte	fun	There were 762 NAs produced for seed: 34016
+2021-02-17 12:02:33	[Thread 20]	WARN	SimulationEvaluationHte	fun	There were 999 NAs produced for seed: 85883
+2021-02-17 12:02:34	[Thread 29]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 12:02:34	[Thread 7]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 12:02:36	[Thread 35]	WARN	SimulationEvaluationHte	fun	There were 385 NAs produced for seed: 29855
+2021-02-17 12:02:36	[Thread 29]	WARN	SimulationEvaluationHte	fun	Run failed for seed:58555
+2021-02-17 12:02:37	[Thread 7]	WARN	SimulationEvaluationHte	fun	Run failed for seed:25990
+2021-02-17 12:02:37	[Thread 10]	WARN	SimulationEvaluationHte	fun	There were 489 NAs produced for seed: 34500
+2021-02-17 12:02:37	[Thread 3]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 12:02:37	[Thread 45]	WARN	SimulationEvaluationHte	fun	There were 369 NAs produced for seed: 47181
+2021-02-17 12:02:37	[Thread 22]	WARN	SimulationEvaluationHte	fun	There were 142 NAs produced for seed: 11967
+2021-02-17 12:02:38	[Thread 12]	WARN	SimulationEvaluationHte	fun	There were 192 NAs produced for seed: 15142
+2021-02-17 12:02:38	[Thread 3]	WARN	SimulationEvaluationHte	fun	Run failed for seed:19984
+2021-02-17 12:02:38	[Thread 50]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 12:02:39	[Thread 47]	WARN	SimulationEvaluationHte	fun	There were 904 NAs produced for seed: 7644
+2021-02-17 12:02:40	[Thread 50]	WARN	SimulationEvaluationHte	fun	Run failed for seed:34016
+2021-02-17 12:02:45	[Thread 31]	WARN	SimulationEvaluationHte	fun	There were 1088 NAs produced for seed: 68536
+2021-02-17 12:02:45	[Thread 47]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 12:02:45	[Thread 12]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 12:02:46	[Thread 36]	WARN	SimulationEvaluationHte	fun	There were 621 NAs produced for seed: 40972
+2021-02-17 12:02:46	[Thread 47]	WARN	SimulationEvaluationHte	fun	Run failed for seed:7644
+2021-02-17 12:02:47	[Thread 12]	WARN	SimulationEvaluationHte	fun	Run failed for seed:15142
+2021-02-17 12:02:48	[Thread 49]	WARN	SimulationEvaluationHte	fun	There were 400 NAs produced for seed: 61298
+2021-02-17 12:02:48	[Thread 48]	WARN	SimulationEvaluationHte	fun	There were 478 NAs produced for seed: 78483
+2021-02-17 12:02:51	[Thread 6]	WARN	SimulationEvaluationHte	fun	There were 551 NAs produced for seed: 49498
+2021-02-17 12:02:51	[Thread 36]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 12:02:51	[Thread 33]	WARN	SimulationEvaluationHte	fun	There were 640 NAs produced for seed: 98741
+2021-02-17 12:02:52	[Thread 36]	WARN	SimulationEvaluationHte	fun	Run failed for seed:40972
+2021-02-17 12:02:53	[Thread 2]	WARN	SimulationEvaluationHte	fun	There were 481 NAs produced for seed: 65390
+2021-02-17 12:02:55	[Thread 27]	WARN	SimulationEvaluationHte	fun	There were 144 NAs produced for seed: 53311
+2021-02-17 12:02:55	[Thread 9]	WARN	SimulationEvaluationHte	fun	There were 789 NAs produced for seed: 1114
+2021-02-17 12:02:56	[Thread 5]	WARN	SimulationEvaluationHte	fun	There were 327 NAs produced for seed: 75062
+2021-02-17 12:02:58	[Thread 37]	WARN	SimulationEvaluationHte	fun	There were 352 NAs produced for seed: 98169
+2021-02-17 12:02:59	[Thread 42]	WARN	SimulationEvaluationHte	fun	There were 850 NAs produced for seed: 98331
+2021-02-17 12:02:59	[Thread 2]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 12:03:00	[Thread 21]	WARN	SimulationEvaluationHte	fun	There were 1059 NAs produced for seed: 20170
+2021-02-17 12:03:00	[Thread 27]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 12:03:01	[Thread 2]	WARN	SimulationEvaluationHte	fun	Run failed for seed:65390
+2021-02-17 12:03:01	[Thread 23]	WARN	SimulationEvaluationHte	fun	There were 344 NAs produced for seed: 25997
+2021-02-17 12:03:01	[Thread 8]	WARN	SimulationEvaluationHte	fun	There were 331 NAs produced for seed: 24041
+2021-02-17 12:03:01	[Thread 40]	WARN	SimulationEvaluationHte	fun	There were 511 NAs produced for seed: 4888
+2021-02-17 12:03:02	[Thread 27]	WARN	SimulationEvaluationHte	fun	Run failed for seed:53311
+2021-02-17 12:03:02	[Thread 24]	WARN	SimulationEvaluationHte	fun	There were 736 NAs produced for seed: 26723
+2021-02-17 12:03:02	[Thread 30]	WARN	SimulationEvaluationHte	fun	There were 640 NAs produced for seed: 43447
+2021-02-17 12:03:04	[Thread 40]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 12:03:05	[Thread 26]	WARN	SimulationEvaluationHte	fun	There were 598 NAs produced for seed: 2879
+2021-02-17 12:03:05	[Thread 17]	WARN	SimulationEvaluationHte	fun	There were 273 NAs produced for seed: 26653
+2021-02-17 12:03:05	[Thread 40]	WARN	SimulationEvaluationHte	fun	Run failed for seed:4888
+2021-02-17 12:03:08	[Thread 32]	WARN	SimulationEvaluationHte	fun	There were 393 NAs produced for seed: 92384
+2021-02-17 12:03:09	[Thread 19]	WARN	SimulationEvaluationHte	fun	There were 414 NAs produced for seed: 56113
+2021-02-17 12:03:09	[Thread 17]	WARN	rms	lrm	Unable to fit model using “lrm.fit”
+2021-02-17 12:03:09	[Thread 46]	WARN	SimulationEvaluationHte	fun	There were 582 NAs produced for seed: 41111
+2021-02-17 12:03:10	[Thread 34]	WARN	SimulationEvaluationHte	fun	There were 559 NAs produced for seed: 29805
+2021-02-17 12:03:10	[Thread 16]	WARN	SimulationEvaluationHte	fun	There were 325 NAs produced for seed: 97836
+2021-02-17 12:03:10	[Thread 17]	WARN	SimulationEvaluationHte	fun	Run failed for seed:26653
+2021-02-17 12:03:10	[Thread 1]	WARN	SimulationEvaluationHte	fun	There were 403 NAs produced for seed: 59411
+2021-02-17 12:03:20	[Main thread]	INFO	SimulationEvaluationHte	runAnalysis	Done
+2021-02-17 12:03:22	[Main thread]	INFO	SimulationEvaluationHte	runAnalysis	Simulation finished without errors
