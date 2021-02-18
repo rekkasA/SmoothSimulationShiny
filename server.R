@@ -151,7 +151,13 @@ shiny::shinyServer(
         rownames(roc) <- rownames(intercept) <- rownames(slope) <- rownames(brier) <- NULL
 
         dat <- DT::datatable(
-          bind_rows(roc, intercept, slope, brier)
+          bind_rows(roc, intercept, slope, brier),
+          colnames = c(
+            "Evaluation metric",
+            "Median",
+            "2.5%",
+            "97.5%"
+          )
         )
 
         dat <- DT::formatCurrency(
